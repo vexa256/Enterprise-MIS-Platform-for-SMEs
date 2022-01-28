@@ -1,0 +1,2199 @@
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  500    GET / ............................................. 17.92 mb 159.37 ms
+  200    GET / ............................................... 17.55 mb 4.14 ms
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  200    GET /MgtRoles ..................................... 18.71 mb 163.96 ms
+  200    GET /MgtRoles ...................................... 18.81 mb 20.84 ms
+  200    GET / .............................................. 18.54 mb 15.39 ms
+  200    GET /login ......................................... 18.71 mb 70.41 ms
+  404    GET /assets/bg.svg ................................. 18.90 mb 14.72 ms
+  302    POST /login ....................................... 19.77 mb 122.67 ms
+  200    GET /dashboard ..................................... 20.37 mb 92.67 ms
+  200    GET /MgtRoles ...................................... 20.25 mb 24.65 ms
+  200    GET /dashboard .................................... 19.10 mb 222.27 ms
+  200    GET /MgtDepts ..................................... 19.09 mb 215.10 ms
+  200    GET /MgtDepts ...................................... 19.10 mb 97.34 ms
+  200    GET /MgtDepts ..................................... 18.96 mb 107.69 ms
+  200    GET /MgtDepts ...................................... 18.96 mb 89.46 ms
+  200    GET /MgtTaxes ..................................... 19.09 mb 159.50 ms
+  200    GET /MgtDonors ................................... 19.67 mb 2509.58 ms
+  200    GET /GrantValidityAnalysis ........................ 19.48 mb 180.17 ms
+  200    GET /GrantValidityAnalysis ......................... 19.61 mb 49.80 ms
+  200    GET /SelectStaffDocs ............................... 19.62 mb 18.54 ms
+  200    GET /GrantBVASelectYear ............................ 19.70 mb 54.96 ms
+  302    POST /BVASelected .................................. 19.57 mb 12.58 ms
+  302    GET /ReturnYearlyBVA/12/2021 ....................... 19.59 mb 27.70 ms
+  200    GET /GrantBVASelectYear ............................. 19.86 mb 8.95 ms
+  302    POST /BVASelected ................................... 19.58 mb 5.28 ms
+  200    GET /ReturnYearlyBVA/11/2021 ....................... 19.81 mb 22.54 ms
+  200    GET /GrantValidityAnalysis ......................... 19.78 mb 41.36 ms
+  200    GET /SoonExpiring ................................ 19.77 mb 1636.64 ms
+  200    GET /SoonExpiring .................................. 19.77 mb 19.31 ms
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  200    GET /SoonExpiring ................................. 17.57 mb 126.60 ms
+  200    GET /SoonExpiring .................................. 17.58 mb 20.76 ms
+  200    GET /ConExpiredCons ............................... 18.87 mb 123.13 ms
+  200    GET /GrantValueAnalysis ........................... 19.14 mb 137.99 ms
+  200    GET /GrantValueAnalysis ............................ 19.13 mb 27.14 ms
+  200    GET /GrantValueAnalysis ............................ 19.13 mb 19.52 ms
+  200    GET /GrantValueAnalysis ............................ 19.13 mb 21.00 ms
+  200    GET /GrantValueAnalysis ........................... 19.13 mb 125.15 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /GrantValueAnalysis ........................... 17.73 mb 111.43 ms
+  200    GET /GrantValueAnalysis ............................ 17.73 mb 34.61 ms
+  200    GET /GrantValueAnalysis ............................ 17.73 mb 14.32 ms
+  200    GET /MgtTaxes ..................................... 19.08 mb 118.48 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 133.64 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 125.98 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 110.71 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 912.19 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 127.11 ms
+  200    GET /LeaveSettings ................................ 19.70 mb 101.25 ms
+  200    GET /MgtRoles ..................................... 19.48 mb 387.17 ms
+  200    GET /MgtRoles ...................................... 19.36 mb 53.32 ms
+  200    GET /MgtRoles ...................................... 19.44 mb 30.29 ms
+  200    GET /MgtBenefitsSalary ............................ 19.40 mb 128.09 ms
+  200    GET /AssignLeave ................................. 17.36 mb 1311.92 ms
+  302    POST /LeaveSelected ................................ 19.48 mb 66.08 ms
+  200    GET /LeaveAssignment/6 ............................. 19.78 mb 69.68 ms
+  302    POST /AcceptAssign ................................ 20.07 mb 342.56 ms
+  200    GET /LeaveAssignment/6 ............................. 20.33 mb 10.10 ms
+  302    POST /AcceptAssign ................................ 17.84 mb 590.69 ms
+  200    GET /LeaveAssignment/6 ............................. 18.31 mb 35.03 ms
+  302    POST /AcceptAssign ................................ 20.07 mb 132.79 ms
+  200    GET /LeaveAssignment/6 ............................. 20.34 mb 17.49 ms
+  302    POST /AcceptAssign ................................ 17.97 mb 210.28 ms
+  200    GET /LeaveAssignment/6 ............................. 18.74 mb 29.30 ms
+  302    POST /AcceptAssign ................................ 18.05 mb 166.56 ms
+  200    GET /LeaveAssignment/6 ............................. 18.73 mb 36.18 ms
+  302    POST /AcceptAssign ................................ 18.05 mb 170.81 ms
+  200    GET /LeaveAssignment/6 ............................. 18.74 mb 33.23 ms
+  200    GET /LeaveAssignment/6 ............................. 20.89 mb 46.96 ms
+  302    GET /RevokeLeaveRight/12 .......................... 18.05 mb 194.12 ms
+  200    GET /LeaveAssignment/6 ............................. 19.01 mb 26.23 ms
+  200    GET /LeaveAssignment/6 ............................. 19.10 mb 87.42 ms
+  200    GET /LeaveAssignment/6 ............................. 18.33 mb 96.42 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 43.20 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 63.80 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 25.78 ms
+  200    GET /LeaveAssignment/6 ............................. 20.89 mb 49.60 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 47.79 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 31.04 ms
+  200    GET /LeaveAssignment/6 ............................. 18.49 mb 31.91 ms
+  200    GET /MgtEmp ....................................... 19.42 mb 530.45 ms
+  200    GET /MgtEmp ....................................... 20.03 mb 159.33 ms
+  200    GET /MgtEmp ....................................... 20.03 mb 119.99 ms
+  200    GET /MgtEmp ....................................... 20.04 mb 144.91 ms
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /MgtEmp ....................................... 19.08 mb 171.72 ms
+  200    GET /MgtEmp ....................................... 21.07 mb 156.77 ms
+  404    GET /tinymce.bundle.js.map ......................... 20.05 mb 72.38 ms
+  200    GET /MgtEmp ....................................... 20.91 mb 175.09 ms
+  200    GET /MgtEmp ....................................... 20.91 mb 292.25 ms
+  404    GET /tinymce.bundle.js.map .......................... 20.05 mb 4.77 ms
+  200    GET /MgtEmp ....................................... 22.18 mb 848.58 ms
+  404    GET /tinymce.bundle.js.map ....................... 15.40 mb 3872.93 ms
+  200    GET /MgtEmp ...................................... 21.21 mb 3124.19 ms
+  200    GET /MgtEmp ....................................... 22.18 mb 108.16 ms
+  200    GET /MgtEmp ....................................... 22.18 mb 116.33 ms
+  200    GET /MgtEmp ....................................... 22.18 mb 138.61 ms
+  200    GET /MgtEmp ....................................... 21.78 mb 140.22 ms
+  404    GET /tinymce.bundle.js.map .......................... 19.95 mb 9.88 ms
+  404    GET /tinymce.bundle.js.map .......................... 19.95 mb 3.11 ms
+  200    GET /MgtEmp ....................................... 21.78 mb 190.40 ms
+  404    GET /tinymce.bundle.js.map .......................... 20.92 mb 2.54 ms
+  200    GET /MgtEmp ....................................... 22.18 mb 141.11 ms
+  200    GET /MgtRoles ..................................... 21.67 mb 369.29 ms
+  404    GET //plugins/preview/plugin.js ..................... 19.95 mb 3.65 ms
+  404    GET //plugins/print/plugin.js ...................... 20.82 mb 14.38 ms
+  404    GET //plugins/importcss/plugin.js ................... 19.95 mb 2.81 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.82 mb 8.15 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.83 mb 3.34 ms
+  404    GET //plugins/autolink/plugin.js .................... 19.95 mb 3.53 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.83 mb 3.90 ms
+  404    GET //plugins/directionality/plugin.js .............. 19.95 mb 4.31 ms
+  404    GET //plugins/save/plugin.js ....................... 20.83 mb 13.99 ms
+  404    GET //plugins/code/plugin.js ........................ 19.95 mb 2.85 ms
+  404    GET //plugins/image/plugin.js ....................... 19.96 mb 8.98 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.83 mb 3.45 ms
+  404    GET //plugins/visualchars/plugin.js ................. 19.96 mb 5.27 ms
+  404    GET //plugins/template/plugin.js .................... 20.92 mb 2.53 ms
+  404    GET //plugins/media/plugin.js ....................... 19.95 mb 3.16 ms
+  404    GET //plugins/link/plugin.js ........................ 19.96 mb 2.93 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 20.83 mb 6.25 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.84 mb 2.45 ms
+  404    GET //plugins/table/plugin.js ....................... 19.96 mb 2.55 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.84 mb 3.79 ms
+  404    GET //plugins/hr/plugin.js .......................... 20.84 mb 3.68 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 19.96 mb 2.95 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 20.84 mb 3.06 ms
+  404    GET //plugins/anchor/plugin.js ...................... 19.97 mb 3.07 ms
+  404    GET //plugins/toc/plugin.js ......................... 20.84 mb 2.81 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.84 mb 3.37 ms
+  404    GET //plugins/advlist/plugin.js ..................... 20.85 mb 3.31 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.85 mb 3.20 ms
+  404    GET //plugins/wordcount/plugin.js ................... 20.85 mb 3.14 ms
+  404    GET //plugins/imagetools/plugin.js .................. 20.85 mb 2.80 ms
+  404    GET //plugins/noneditable/plugin.js ................. 19.97 mb 2.41 ms
+  404    GET //plugins/help/plugin.js ........................ 19.95 mb 2.44 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.92 mb 3.51 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.85 mb 7.06 ms
+  404    GET //plugins/emoticons/plugin.js ................... 20.86 mb 2.50 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.86 mb 2.76 ms
+  404    GET //skins/content/default/content.css ............. 19.97 mb 2.95 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.86 mb 3.13 ms
+  200    GET /MgtRoles ...................................... 22.01 mb 28.38 ms
+  404    GET //plugins/paste/plugin.js ....................... 19.96 mb 2.20 ms
+  404    GET //plugins/preview/plugin.js ..................... 19.97 mb 2.63 ms
+  404    GET //plugins/print/plugin.js ....................... 20.87 mb 5.82 ms
+  404    GET //plugins/autolink/plugin.js .................... 19.96 mb 2.45 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 19.97 mb 4.72 ms
+  404    GET //plugins/importcss/plugin.js ................... 20.88 mb 7.10 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.88 mb 4.70 ms
+  404    GET //plugins/code/plugin.js ........................ 20.92 mb 2.23 ms
+  404    GET //plugins/directionality/plugin.js .............. 19.97 mb 3.34 ms
+  404    GET //plugins/image/plugin.js ....................... 19.96 mb 2.63 ms
+  404    GET //plugins/save/plugin.js ....................... 20.88 mb 10.42 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.88 mb 2.60 ms
+  404    GET //plugins/visualchars/plugin.js ................. 20.88 mb 3.45 ms
+  404    GET //plugins/link/plugin.js ........................ 19.98 mb 2.85 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.92 mb 2.87 ms
+  404    GET //plugins/template/plugin.js .................... 19.96 mb 5.79 ms
+  404    GET //plugins/media/plugin.js ....................... 19.98 mb 3.46 ms
+  404    GET //plugins/fullscreen/plugin.js ................. 20.89 mb 15.24 ms
+  404    GET //plugins/table/plugin.js ....................... 20.89 mb 5.07 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.89 mb 2.90 ms
+  404    GET //plugins/hr/plugin.js .......................... 20.89 mb 3.49 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 19.98 mb 2.78 ms
+  404    GET //plugins/anchor/plugin.js ...................... 19.96 mb 2.26 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 20.89 mb 3.92 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 19.98 mb 2.84 ms
+  404    GET //plugins/toc/plugin.js ......................... 20.89 mb 7.25 ms
+  404    GET //plugins/advlist/plugin.js ..................... 19.97 mb 2.68 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.90 mb 2.90 ms
+  404    GET //plugins/wordcount/plugin.js ................... 19.98 mb 2.44 ms
+  404    GET //plugins/imagetools/plugin.js .................. 19.97 mb 2.34 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.90 mb 4.86 ms
+  404    GET //plugins/noneditable/plugin.js ................. 19.99 mb 2.84 ms
+  404    GET //plugins/help/plugin.js ........................ 20.90 mb 4.01 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.90 mb 2.51 ms
+  404    GET //plugins/emoticons/plugin.js ................... 19.99 mb 2.51 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.90 mb 3.57 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.91 mb 3.22 ms
+  404    GET //skins/content/default/content.css ............. 20.91 mb 4.30 ms
+  200    GET /MgtRoles ...................................... 22.05 mb 43.96 ms
+  404    GET //plugins/print/plugin.js ....................... 20.91 mb 2.77 ms
+  404    GET //plugins/preview/plugin.js ..................... 19.99 mb 3.59 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.91 mb 3.99 ms
+  404    GET //plugins/importcss/plugin.js ................... 20.91 mb 6.79 ms
+  404    GET //plugins/autolink/plugin.js .................... 19.99 mb 3.46 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.91 mb 3.93 ms
+  404    GET //plugins/directionality/plugin.js .............. 19.97 mb 2.93 ms
+  404    GET //plugins/image/plugin.js ....................... 20.93 mb 2.92 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.92 mb 3.20 ms
+  404    GET //plugins/save/plugin.js ........................ 19.99 mb 3.28 ms
+  404    GET //plugins/code/plugin.js ........................ 20.92 mb 2.71 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 19.99 mb 3.40 ms
+  404    GET //plugins/visualchars/plugin.js ................. 20.92 mb 3.29 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 20.00 mb 4.77 ms
+  404    GET //plugins/link/plugin.js ........................ 20.92 mb 2.75 ms
+  404    GET //plugins/media/plugin.js ....................... 20.00 mb 4.51 ms
+  404    GET //plugins/template/plugin.js .................... 20.92 mb 3.79 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.00 mb 7.90 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 20.93 mb 2.53 ms
+  404    GET //plugins/table/plugin.js ....................... 20.93 mb 3.21 ms
+  404    GET //plugins/hr/plugin.js .......................... 19.97 mb 3.56 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.00 mb 2.80 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 20.93 mb 3.56 ms
+  404    GET //plugins/anchor/plugin.js ...................... 20.93 mb 3.12 ms
+  404    GET //plugins/toc/plugin.js ......................... 20.93 mb 3.10 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.00 mb 3.53 ms
+  404    GET //plugins/advlist/plugin.js ..................... 19.97 mb 3.57 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.93 mb 3.04 ms
+  404    GET //plugins/wordcount/plugin.js ................... 20.01 mb 5.80 ms
+  404    GET //plugins/imagetools/plugin.js .................. 19.97 mb 3.46 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.93 mb 3.12 ms
+  404    GET //plugins/noneditable/plugin.js ................. 20.01 mb 4.14 ms
+  404    GET //plugins/help/plugin.js ........................ 20.94 mb 4.64 ms
+  404    GET //plugins/quickbars/plugin.js ................... 19.98 mb 4.37 ms
+  404    GET //plugins/emoticons/plugin.js ................... 20.01 mb 3.04 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.94 mb 3.18 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.94 mb 4.90 ms
+  404    GET //skins/content/default/content.css ............. 20.02 mb 6.31 ms
+  200    GET /MgtRoles ...................................... 22.08 mb 34.82 ms
+  404    GET //plugins/print/plugin.js ....................... 20.94 mb 2.83 ms
+  404    GET //plugins/preview/plugin.js ..................... 20.94 mb 3.74 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.03 mb 3.74 ms
+  404    GET //plugins/importcss/plugin.js ................... 20.95 mb 2.42 ms
+  404    GET //plugins/autolink/plugin.js .................... 20.03 mb 2.66 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.95 mb 2.91 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.95 mb 2.81 ms
+  404    GET //plugins/save/plugin.js ........................ 20.03 mb 2.86 ms
+  404    GET //plugins/directionality/plugin.js .............. 20.95 mb 5.53 ms
+  404    GET //plugins/image/plugin.js ....................... 20.03 mb 3.59 ms
+  404    GET //plugins/code/plugin.js ........................ 20.95 mb 2.79 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.03 mb 2.72 ms
+  404    GET //plugins/visualchars/plugin.js ................. 19.98 mb 2.45 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 20.93 mb 3.35 ms
+  404    GET //plugins/link/plugin.js ........................ 20.95 mb 3.32 ms
+  404    GET //plugins/media/plugin.js ....................... 20.04 mb 2.17 ms
+  404    GET //plugins/template/plugin.js .................... 20.96 mb 6.32 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.04 mb 7.03 ms
+  404    GET //plugins/table/plugin.js ....................... 20.96 mb 3.02 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.04 mb 2.67 ms
+  404    GET //plugins/hr/plugin.js .......................... 20.96 mb 2.54 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 20.96 mb 2.96 ms
+  404    GET //plugins/anchor/plugin.js ...................... 20.04 mb 2.31 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 20.96 mb 2.93 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.04 mb 1.71 ms
+  404    GET //plugins/toc/plugin.js ......................... 20.97 mb 2.49 ms
+  404    GET //plugins/advlist/plugin.js ..................... 19.98 mb 2.38 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.97 mb 5.37 ms
+  404    GET //plugins/wordcount/plugin.js ................... 20.97 mb 3.20 ms
+  404    GET //plugins/imagetools/plugin.js .................. 20.04 mb 2.77 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.97 mb 3.14 ms
+  404    GET //plugins/noneditable/plugin.js ................. 20.05 mb 2.76 ms
+  404    GET //plugins/help/plugin.js ........................ 20.97 mb 3.05 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.97 mb 2.89 ms
+  404    GET //plugins/emoticons/plugin.js ................... 20.98 mb 2.82 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.98 mb 4.44 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.98 mb 3.23 ms
+  404    GET //skins/content/default/content.css ............. 20.05 mb 2.44 ms
+  200    GET /MgtRoles ...................................... 22.12 mb 36.51 ms
+  404    GET //plugins/print/plugin.js ....................... 20.98 mb 6.56 ms
+  404    GET //plugins/preview/plugin.js ..................... 20.98 mb 3.10 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.05 mb 2.41 ms
+  404    GET //plugins/importcss/plugin.js ................... 19.98 mb 3.10 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.99 mb 3.08 ms
+  404    GET //plugins/autolink/plugin.js .................... 20.99 mb 2.78 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.99 mb 2.71 ms
+  404    GET //plugins/save/plugin.js ........................ 20.99 mb 3.63 ms
+  404    GET //plugins/code/plugin.js ........................ 20.93 mb 2.51 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.99 mb 2.45 ms
+  404    GET //plugins/image/plugin.js ....................... 19.98 mb 6.40 ms
+  404    GET //plugins/directionality/plugin.js ............. 20.05 mb 10.19 ms
+  404    GET //plugins/visualchars/plugin.js ................. 20.99 mb 3.24 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 21.00 mb 2.83 ms
+  404    GET //plugins/media/plugin.js ....................... 19.99 mb 2.32 ms
+  404    GET //plugins/link/plugin.js ........................ 20.05 mb 3.97 ms
+  404    GET //plugins/template/plugin.js .................... 21.00 mb 3.54 ms
+  404    GET //plugins/codesample/plugin.js .................. 21.00 mb 3.07 ms
+  404    GET //plugins/table/plugin.js ....................... 21.00 mb 2.96 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.06 mb 2.69 ms
+  404    GET //plugins/hr/plugin.js .......................... 19.99 mb 3.76 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 21.00 mb 2.83 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 21.01 mb 3.09 ms
+  404    GET //plugins/anchor/plugin.js ...................... 20.06 mb 2.80 ms
+  404    GET //plugins/toc/plugin.js ......................... 21.01 mb 2.39 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 21.01 mb 2.60 ms
+  404    GET //plugins/advlist/plugin.js ..................... 21.01 mb 5.40 ms
+  404    GET //plugins/lists/plugin.js ....................... 21.01 mb 2.57 ms
+  404    GET //plugins/wordcount/plugin.js ................... 20.06 mb 3.21 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.06 mb 2.79 ms
+  404    GET //plugins/imagetools/plugin.js .................. 21.01 mb 3.16 ms
+  404    GET //plugins/noneditable/plugin.js ................. 21.02 mb 4.72 ms
+  404    GET //plugins/help/plugin.js ........................ 21.02 mb 3.45 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.06 mb 2.90 ms
+  404    GET //plugins/emoticons/plugin.js ................... 21.02 mb 2.60 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 21.02 mb 2.94 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 21.02 mb 6.40 ms
+  404    GET //skins/content/default/content.css ............. 21.03 mb 3.03 ms
+  200    GET /MgtRoles ...................................... 22.02 mb 51.40 ms
+  200    GET /MgtRoles ...................................... 22.02 mb 81.98 ms
+  404    GET //plugins/print/plugin.js ....................... 20.88 mb 2.33 ms
+  404    GET //plugins/preview/plugin.js ..................... 20.88 mb 2.84 ms
+  404    GET //plugins/paste/plugin.js ....................... 21.03 mb 2.39 ms
+  404    GET //plugins/importcss/plugin.js ................... 20.88 mb 2.91 ms
+  404    GET //plugins/autolink/plugin.js .................... 21.03 mb 3.99 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.88 mb 4.58 ms
+  404    GET //plugins/save/plugin.js ........................ 21.03 mb 2.79 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.89 mb 3.76 ms
+  404    GET //plugins/directionality/plugin.js .............. 20.06 mb 4.41 ms
+  404    GET //plugins/image/plugin.js ....................... 20.89 mb 2.31 ms
+  404    GET //plugins/code/plugin.js ........................ 20.89 mb 3.75 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.89 mb 2.80 ms
+  404    GET //plugins/link/plugin.js ........................ 20.89 mb 2.69 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 20.07 mb 3.57 ms
+  404    GET //plugins/visualchars/plugin.js ................. 21.03 mb 5.14 ms
+  404    GET //plugins/media/plugin.js ....................... 20.89 mb 2.25 ms
+  404    GET //plugins/template/plugin.js .................... 20.90 mb 3.66 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.90 mb 3.56 ms
+  404    GET //plugins/table/plugin.js ....................... 20.90 mb 3.08 ms
+  404    GET //plugins/charmap/plugin.js ..................... 21.03 mb 2.61 ms
+  404    GET //plugins/hr/plugin.js .......................... 20.07 mb 3.91 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 20.90 mb 2.94 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 20.90 mb 5.12 ms
+  404    GET //plugins/anchor/plugin.js ...................... 20.91 mb 6.21 ms
+  404    GET //plugins/toc/plugin.js ......................... 20.91 mb 3.06 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.91 mb 2.81 ms
+  404    GET //plugins/advlist/plugin.js ..................... 21.04 mb 3.87 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.91 mb 2.94 ms
+  404    GET //plugins/wordcount/plugin.js ................... 21.04 mb 3.73 ms
+  404    GET //plugins/imagetools/plugin.js .................. 20.91 mb 3.18 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.91 mb 2.75 ms
+  404    GET //plugins/noneditable/plugin.js ................. 21.04 mb 3.63 ms
+  404    GET //plugins/help/plugin.js ........................ 20.92 mb 3.21 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.92 mb 3.12 ms
+  404    GET //plugins/emoticons/plugin.js ................... 20.92 mb 3.03 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.92 mb 3.34 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.92 mb 2.77 ms
+  404    GET //skins/content/default/content.css ............. 21.04 mb 3.30 ms
+  200    GET /MgtRoles ...................................... 22.06 mb 35.83 ms
+  404    GET //plugins/print/plugin.js ....................... 20.93 mb 2.59 ms
+  404    GET //plugins/preview/plugin.js ..................... 20.93 mb 2.35 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.93 mb 2.11 ms
+  404    GET //plugins/importcss/plugin.js ................... 20.93 mb 1.70 ms
+  404    GET //plugins/autolink/plugin.js .................... 21.04 mb 3.99 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.93 mb 4.18 ms
+  404    GET //plugins/autosave/plugin.js .................... 20.93 mb 3.72 ms
+  404    GET //plugins/save/plugin.js ........................ 20.94 mb 6.98 ms
+  404    GET //plugins/directionality/plugin.js .............. 21.05 mb 5.20 ms
+  404    GET //plugins/image/plugin.js ....................... 20.94 mb 6.53 ms
+  404    GET //plugins/code/plugin.js ........................ 20.94 mb 3.35 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.94 mb 2.35 ms
+  404    GET //plugins/visualchars/plugin.js ................. 20.94 mb 2.33 ms
+  404    GET //plugins/link/plugin.js ........................ 21.05 mb 5.04 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 20.95 mb 3.07 ms
+  404    GET //plugins/media/plugin.js ....................... 20.95 mb 4.58 ms
+  404    GET //plugins/template/plugin.js .................... 21.05 mb 3.90 ms
+  404    GET //plugins/codesample/plugin.js .................. 20.95 mb 3.56 ms
+  404    GET //plugins/table/plugin.js ....................... 20.95 mb 3.47 ms
+  404    GET //plugins/charmap/plugin.js ..................... 20.95 mb 3.81 ms
+  404    GET //plugins/hr/plugin.js .......................... 20.95 mb 4.00 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 20.96 mb 2.90 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 20.96 mb 2.88 ms
+  404    GET //plugins/toc/plugin.js ......................... 21.05 mb 1.96 ms
+  404    GET //plugins/anchor/plugin.js ...................... 20.96 mb 2.85 ms
+  404    GET //plugins/advlist/plugin.js ..................... 21.05 mb 2.60 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.96 mb 2.76 ms
+  404    GET //plugins/lists/plugin.js ....................... 20.96 mb 5.91 ms
+  404    GET //plugins/wordcount/plugin.js ................... 20.97 mb 2.90 ms
+  404    GET //plugins/imagetools/plugin.js .................. 21.05 mb 3.55 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.07 mb 3.31 ms
+  404    GET //plugins/noneditable/plugin.js ................. 20.97 mb 2.78 ms
+  404    GET //plugins/help/plugin.js ........................ 21.06 mb 2.58 ms
+  404    GET //plugins/quickbars/plugin.js ................... 20.07 mb 3.78 ms
+  404    GET //plugins/emoticons/plugin.js ................... 20.97 mb 4.49 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 20.97 mb 3.30 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 20.97 mb 3.34 ms
+  404    GET //skins/content/default/content.css ............. 21.06 mb 3.11 ms
+  200    GET /MgtCons ...................................... 22.67 mb 306.53 ms
+  404    GET //plugins/print/plugin.js ....................... 21.04 mb 2.87 ms
+  404    GET //plugins/preview/plugin.js ..................... 21.04 mb 4.58 ms
+  404    GET //plugins/paste/plugin.js ....................... 21.04 mb 4.35 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.07 mb 2.43 ms
+  404    GET //plugins/importcss/plugin.js ................... 21.06 mb 4.46 ms
+  404    GET //plugins/autolink/plugin.js .................... 21.04 mb 3.05 ms
+  404    GET //plugins/autosave/plugin.js .................... 21.04 mb 3.13 ms
+  404    GET //plugins/save/plugin.js ........................ 21.05 mb 4.09 ms
+  404    GET //plugins/directionality/plugin.js .............. 21.05 mb 2.56 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 20.08 mb 2.91 ms
+  404    GET //plugins/code/plugin.js ........................ 21.05 mb 3.36 ms
+  404    GET //plugins/image/plugin.js ....................... 21.06 mb 3.64 ms
+  404    GET //plugins/visualchars/plugin.js ................. 21.05 mb 1.75 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 21.05 mb 3.35 ms
+  404    GET //plugins/link/plugin.js ........................ 21.06 mb 2.84 ms
+  404    GET //plugins/media/plugin.js ....................... 21.06 mb 2.26 ms
+  404    GET //plugins/template/plugin.js .................... 21.06 mb 2.89 ms
+  404    GET //plugins/table/plugin.js ....................... 20.08 mb 2.80 ms
+  404    GET //plugins/codesample/plugin.js .................. 21.07 mb 4.94 ms
+  404    GET //plugins/charmap/plugin.js ..................... 21.06 mb 2.83 ms
+  404    GET //plugins/hr/plugin.js .......................... 21.07 mb 3.32 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 21.06 mb 2.48 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 21.07 mb 2.95 ms
+  404    GET //plugins/anchor/plugin.js ...................... 21.06 mb 4.71 ms
+  404    GET //plugins/toc/plugin.js ......................... 21.07 mb 3.10 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 20.08 mb 3.61 ms
+  404    GET //plugins/advlist/plugin.js ..................... 21.06 mb 2.86 ms
+  404    GET //plugins/lists/plugin.js ....................... 21.07 mb 3.42 ms
+  404    GET //plugins/wordcount/plugin.js ................... 21.07 mb 2.73 ms
+  404    GET //plugins/imagetools/plugin.js .................. 21.07 mb 2.63 ms
+  404    GET //plugins/textpattern/plugin.js ................. 21.07 mb 2.46 ms
+  404    GET //plugins/noneditable/plugin.js ................. 21.07 mb 2.55 ms
+  404    GET //plugins/help/plugin.js ........................ 21.07 mb 3.44 ms
+  404    GET //plugins/quickbars/plugin.js ................... 21.07 mb 6.16 ms
+  404    GET //plugins/emoticons/plugin.js ................... 21.08 mb 4.78 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 21.08 mb 2.94 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 21.08 mb 2.63 ms
+  404    GET //skins/content/default/content.css ............. 21.08 mb 2.39 ms
+  200    GET /MgtBenefitsSalary ............................ 22.22 mb 259.34 ms
+  404    GET //plugins/print/plugin.js ....................... 21.18 mb 4.80 ms
+  404    GET //plugins/searchreplace/plugin.js ............... 20.93 mb 2.91 ms
+  404    GET //plugins/paste/plugin.js ....................... 20.08 mb 4.74 ms
+  404    GET //plugins/importcss/plugin.js ................... 21.18 mb 2.68 ms
+  404    GET //plugins/preview/plugin.js ..................... 21.08 mb 8.83 ms
+  404    GET //plugins/autolink/plugin.js .................... 21.18 mb 3.93 ms
+  404    GET //plugins/autosave/plugin.js .................... 21.18 mb 3.45 ms
+  404    GET //plugins/save/plugin.js ........................ 21.18 mb 2.60 ms
+  404    GET //plugins/directionality/plugin.js .............. 21.08 mb 3.58 ms
+  404    GET //plugins/image/plugin.js ....................... 21.19 mb 2.28 ms
+  404    GET //plugins/code/plugin.js ........................ 21.19 mb 2.90 ms
+  404    GET //plugins/visualblocks/plugin.js ................ 21.08 mb 3.37 ms
+  404    GET //plugins/visualchars/plugin.js ................. 21.19 mb 2.67 ms
+  404    GET //plugins/link/plugin.js ........................ 20.08 mb 2.01 ms
+  404    GET //plugins/fullscreen/plugin.js .................. 21.08 mb 3.22 ms
+  404    GET //plugins/media/plugin.js ....................... 21.19 mb 2.56 ms
+  404    GET //plugins/template/plugin.js .................... 21.19 mb 2.85 ms
+  404    GET //plugins/codesample/plugin.js .................. 21.19 mb 3.32 ms
+  404    GET //plugins/table/plugin.js ....................... 21.09 mb 3.35 ms
+  404    GET //plugins/charmap/plugin.js ..................... 21.20 mb 4.74 ms
+  404    GET //plugins/hr/plugin.js .......................... 21.20 mb 6.86 ms
+  404    GET //plugins/pagebreak/plugin.js ................... 21.20 mb 2.74 ms
+  404    GET //plugins/nonbreaking/plugin.js ................. 21.20 mb 3.47 ms
+  404    GET //plugins/anchor/plugin.js ...................... 21.20 mb 3.14 ms
+  404    GET //plugins/toc/plugin.js ......................... 21.21 mb 4.02 ms
+  404    GET //plugins/insertdatetime/plugin.js .............. 21.21 mb 2.71 ms
+  404    GET //plugins/advlist/plugin.js ..................... 21.21 mb 2.57 ms
+  404    GET //plugins/lists/plugin.js ....................... 21.21 mb 2.29 ms
+  404    GET //plugins/wordcount/plugin.js ................... 21.21 mb 2.60 ms
+  404    GET //plugins/imagetools/plugin.js .................. 21.09 mb 3.07 ms
+  404    GET //plugins/textpattern/plugin.js ................. 20.08 mb 2.48 ms
+  404    GET //plugins/noneditable/plugin.js ................. 21.21 mb 2.60 ms
+  404    GET //plugins/help/plugin.js ........................ 21.22 mb 2.51 ms
+  404    GET //plugins/quickbars/plugin.js ................... 21.22 mb 3.06 ms
+  404    GET //plugins/emoticons/plugin.js ................... 21.22 mb 2.61 ms
+  404    GET //skins/ui/oxide/skin.min.css ................... 21.22 mb 3.44 ms
+  404    GET //skins/ui/oxide/content.min.css ................ 21.22 mb 4.65 ms
+  404    GET //skins/content/default/content.css ............. 21.23 mb 3.59 ms
+  200    GET /MgtBenefitsSalary ............................. 21.50 mb 89.68 ms
+  200    GET /SelectConDocs ................................. 21.70 mb 51.38 ms
+  200    GET /SelectConDocs ................................. 21.71 mb 18.20 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:25
+     21▕         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+  ➜  25▕         /****/ Page speed middleware
+     26▕ 
+     27▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     29▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:25
+     21▕         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+  ➜  25▕         /****/ Page speed middleware
+     26▕ 
+     27▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     29▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:25
+     21▕         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+  ➜  25▕         /****/ Page speed middleware
+     26▕ 
+     27▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     29▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:25
+     21▕         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+  ➜  25▕         /****/ Page speed middleware
+     26▕ 
+     27▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     29▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:25
+     21▕         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+  ➜  25▕         /****/ Page speed middleware
+     26▕ 
+     27▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     29▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:26
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+     25▕         /****/
+  ➜  26▕         Page speed middleware
+     27▕ 
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     29▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     30▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:26
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+     25▕         /****/
+  ➜  26▕         Page speed middleware
+     27▕ 
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     29▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     30▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   ParseError 
+
+  syntax error, unexpected identifier "speed", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:26
+     22▕         \App\Http\Middleware\TrimStrings::class,
+     23▕         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+     24▕ 
+     25▕         /****/
+  ➜  26▕         Page speed middleware
+     27▕ 
+     28▕     \RenatoMarinho\LaravelPageSpeed\Middleware\InlineCss::class,
+     29▕     \RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes::class,
+     30▕     // \RenatoMarinho\LaravelPageSpeed\Middleware\InsertDNSPrefetch::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+      [2m+18 vendor frames [22m
+  21  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /SelectConDocs ................................ 17.71 mb 112.55 ms
+  200    GET /MgtEmp ....................................... 19.11 mb 140.18 ms
+  200    GET /AssignLeave .................................. 19.06 mb 330.87 ms
+  302    POST /LeaveSelected ................................ 18.98 mb 92.47 ms
+  200    GET /LeaveAssignment/6 ............................. 19.85 mb 73.25 ms
+  200    GET /SelectConDocs ................................. 19.40 mb 21.53 ms
+  302    POST /ConDocsSelected ............................... 19.03 mb 7.30 ms
+  200    GET /ConReturnDocs/1 .............................. 19.56 mb 186.03 ms
+  200    GET /ConReturnDocs/1 ............................... 19.56 mb 93.85 ms
+  200    GET /MgtDonors .................................... 19.85 mb 362.51 ms
+  200    GET /MgtRoles ...................................... 19.70 mb 31.90 ms
+  200    GET /MgtRoles ...................................... 19.70 mb 44.85 ms
+  200    GET /MgtRoles ...................................... 19.70 mb 38.82 ms
+  200    GET /MgtRoles ...................................... 19.70 mb 24.58 ms
+  200    GET / .............................................. 19.47 mb 51.67 ms
+  200    GET /login ........................................ 19.54 mb 195.60 ms
+  404    GET /assets/bg.svg .................................. 19.76 mb 9.87 ms
+  200    GET /register ..................................... 19.81 mb 294.55 ms
+  200    GET / ............................................... 19.78 mb 7.97 ms
+  200    GET /login .......................................... 19.78 mb 3.32 ms
+  404    GET /assets/bg.svg .................................. 19.79 mb 7.78 ms
+  302    POST /login ....................................... 20.55 mb 761.08 ms
+  200    GET /dashboard ..................................... 20.89 mb 96.92 ms
+  200    GET /SelectConDocs ................................. 20.93 mb 33.17 ms
+  302    POST /ConDocsSelected ............................... 20.56 mb 6.43 ms
+  200    GET /ConReturnDocs/1 ............................... 20.95 mb 88.97 ms
+  200    GET /MgtUsers ...................................... 20.77 mb 88.21 ms
+  302    POST /NewRoles .................................... 20.57 mb 384.88 ms
+  200    GET /MgtUsers ...................................... 20.78 mb 26.65 ms
+  200    GET /MgtDepts ..................................... 20.76 mb 227.45 ms
+  302    POST /NewDept ..................................... 21.19 mb 407.60 ms
+  200    GET /MgtDepts ..................................... 21.38 mb 100.61 ms
+  200    GET /MgtDepts ..................................... 21.38 mb 112.27 ms
+  200    GET /MgtDepts ..................................... 21.38 mb 125.28 ms
+  200    GET /GrantValidityAnalysis ........................ 20.92 mb 645.17 ms
+  200    GET /MgtBenefitsSalary ............................ 20.99 mb 116.95 ms
+  200    GET /MgtRoles ...................................... 21.27 mb 45.04 ms
+  200    GET /SelectStaffPay ................................ 21.01 mb 50.83 ms
+  302    POST /StaffSelectedPay .............................. 20.82 mb 8.18 ms
+  200    GET /ReturnPaySettings/7 .......................... 21.08 mb 163.82 ms
+  302    POST /AssignTax ................................... 20.91 mb 164.54 ms
+  200    GET /ReturnPaySettings/7 ........................... 21.11 mb 29.11 ms
+  302    POST /AssignDeduction ............................. 20.93 mb 462.76 ms
+  200    GET /ReturnPaySettings/7 ........................... 21.14 mb 20.85 ms
+  302    POST /NewBenA ..................................... 20.95 mb 189.75 ms
+  200    GET /ReturnPaySettings/7 ........................... 21.17 mb 21.26 ms
+  200    GET /SelectStaffExecPay ............................ 21.14 mb 35.94 ms
+  302    POST /ExecPaySelected ............................... 20.95 mb 3.88 ms
+  200    GET /ExecPay/4 .................................... 21.28 mb 145.11 ms
+  302    POST /RunPayroll .................................. 21.13 mb 702.88 ms
+  200    GET /ExecPay/4 .................................... 21.38 mb 107.40 ms
+  200    GET /ExecPay/4 .................................... 21.38 mb 109.40 ms
+  200    GET /MgtEmp ....................................... 21.66 mb 104.77 ms
+  200    GET /MgtEmp ....................................... 21.66 mb 154.51 ms
+  200    GET /MgtEmp ....................................... 21.66 mb 104.31 ms
+  200    GET /MgtEmp ....................................... 21.66 mb 111.17 ms
+  200    GET /LeaveSettings ................................ 21.72 mb 170.89 ms
+  200    GET /MgtUsers ...................................... 21.34 mb 22.62 ms
+  200    GET /ExpiredCons ................................... 21.56 mb 96.01 ms
+  200    GET /GrantDatabase ................................ 21.46 mb 155.74 ms
+  200    GET /GrantValueAnalysis ............................ 21.34 mb 51.70 ms
+  200    GET /MgtRoles ...................................... 21.60 mb 28.18 ms
+  200    GET /MgtRoles ...................................... 21.60 mb 38.31 ms
+  200    GET /MgtRoles ...................................... 21.60 mb 41.45 ms
+  200    GET /GrantBVASelectYear ............................ 21.42 mb 33.27 ms
+  200    GET /GrantBVASelectYear ........................... 21.42 mb 102.81 ms
+  200    GET /GrantBVASelectYear ............................ 21.42 mb 33.27 ms
+  200    GET /MgtRoles ...................................... 21.60 mb 57.66 ms
+  200    GET /GrantValidityAnalysis ......................... 21.34 mb 24.38 ms
+  200    GET /MgtCons ...................................... 22.12 mb 194.42 ms
+  200    GET /LeaveSettings ................................. 21.75 mb 94.37 ms
+  200    GET /SelectStaffPay ................................ 21.36 mb 19.59 ms
+  302    POST /StaffSelectedPay .............................. 21.17 mb 7.62 ms
+  200    GET /ReturnPaySettings/6 ........................... 21.37 mb 19.02 ms
+  200    GET /LeaveApproval ................................ 21.65 mb 275.20 ms
+  200    GET /GrantValidityAnalysis ......................... 21.36 mb 21.78 ms
+  200    GET /SelectConDocs ................................. 21.55 mb 24.24 ms
+  302    POST /ConDocsSelected ............................... 21.18 mb 7.49 ms
+  200    GET /ConReturnDocs/1 ............................... 21.57 mb 99.60 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 106.89 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 110.29 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 150.58 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 109.69 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 111.72 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 145.84 ms
+  200    GET /MgtEmp ........................................ 21.72 mb 97.75 ms
+  200    GET /MgtEmp ....................................... 21.72 mb 100.68 ms
+  200    GET /MgtEmp ........................................ 21.72 mb 92.02 ms
+  200    GET /SelectLeaveApply .............................. 21.37 mb 22.14 ms
+  302    POST /LeaveIdSelected .............................. 21.18 mb 11.11 ms
+  200    GET /ApplyForLeave/7 ............................... 21.40 mb 53.48 ms
+  200    GET /MgtEmp ........................................ 21.73 mb 97.99 ms
+  200    GET /SelectStaffPay ................................ 21.38 mb 14.89 ms
+  200    GET /GrantValidityAnalysis ......................... 21.38 mb 39.01 ms
+  200    GET /MgtTaxes ..................................... 21.37 mb 192.83 ms
+  200    GET /MgtTaxes ...................................... 21.37 mb 98.93 ms
+  200    GET /MgtDeductions ................................ 21.38 mb 196.89 ms
+  200    GET /LeaveSettings ................................. 21.78 mb 96.51 ms
+  200    GET /GrantDatabase ................................ 21.51 mb 128.17 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 40.15 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 37.90 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 29.03 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 37.98 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 32.03 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 33.86 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 34.27 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 35.84 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 35.70 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 33.61 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 34.99 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 39.09 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 31.21 ms
+  200    GET /MgtRoles ...................................... 21.52 mb 34.74 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 46.39 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 38.68 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 47.87 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 53.91 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 53.86 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 43.06 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 36.56 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 31.15 ms
+  200    GET /MgtEmp ....................................... 21.74 mb 109.63 ms
+  200    GET /SelectConDocs ................................. 21.57 mb 14.85 ms
+  200    GET /AssignLeave ................................... 21.39 mb 22.08 ms
+  200    GET /GrantDatabase ................................. 21.51 mb 97.92 ms
+  200    GET /MgtTaxes ...................................... 21.37 mb 87.51 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 40.64 ms
+  200    GET /SelectLeaveApply .............................. 21.39 mb 14.83 ms
+  200    GET /SelectLeaveApply .............................. 21.39 mb 19.78 ms
+  200    GET /SelectLeaveApply .............................. 21.39 mb 24.42 ms
+  200    GET /SelectLeaveApply .............................. 21.39 mb 15.17 ms
+  200    GET /MgtRoles ...................................... 21.65 mb 66.36 ms
+  200    GET /MgtTaxes ...................................... 21.37 mb 93.18 ms
+  200    GET /AssignLeave ................................... 21.39 mb 14.01 ms
+  302    POST /LeaveSelected ................................. 21.20 mb 3.50 ms
+  200    GET /LeaveAssignment/6 ............................. 22.02 mb 40.88 ms
+  200    GET /ConSoonExpiring ............................... 21.37 mb 65.91 ms
+  200    GET /MgtUsers ...................................... 21.41 mb 39.81 ms
+  200    GET /MgtEmp ....................................... 21.74 mb 112.06 ms
+  200    GET /AssignLeave ................................... 21.40 mb 14.31 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  302    GET /AssignLeave ................................... 17.02 mb 46.56 ms
+  200    GET /login ......................................... 17.33 mb 13.06 ms
+  404    GET /assets/bg.svg .................................. 17.45 mb 6.27 ms
+  302    POST /login ........................................ 18.43 mb 94.78 ms
+  200    GET /AssignLeave .................................... 18.81 mb 8.58 ms
+  302    POST /LeaveSelected ................................. 18.62 mb 4.26 ms
+  200    GET /LeaveAssignment/6 ............................. 19.49 mb 40.53 ms
+  200    GET /ExpiredCons .................................. 20.50 mb 170.17 ms
+  200    GET /SelectConDocs ................................. 20.50 mb 33.70 ms
+  200    GET /GrantDatabase ................................ 20.62 mb 146.57 ms
+  200    GET /MgtRoles ...................................... 20.77 mb 22.29 ms
+  200    GET /GrantBVASelectYear ............................ 20.68 mb 29.61 ms
+  302    POST /BVASelected .................................. 20.42 mb 22.24 ms
+  302    POST /BVASelected ................................... 20.42 mb 5.53 ms
+  302    GET /ReturnYearlyBVA/12/2021 ........................ 20.47 mb 8.01 ms
+  200    GET /GrantBVASelectYear ............................. 20.72 mb 8.65 ms
+  302    POST /BVASelected ................................... 20.46 mb 4.64 ms
+  302    GET /ReturnYearlyBVA/12/2021 ....................... 20.46 mb 13.33 ms
+  200    GET /GrantBVASelectYear ............................ 20.72 mb 18.14 ms
+  200    GET /MgtEmp ....................................... 21.00 mb 140.61 ms
+  200    GET /GrantDatabase ................................. 20.78 mb 89.95 ms
+  200    GET /ExpiredCons ................................... 20.89 mb 94.93 ms
+  200    GET /GrantValueAnalysis ........................... 20.74 mb 139.68 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 17.65 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 21.83 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 21.63 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 32.83 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 19.82 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 17.38 ms
+  200    GET /GrantValueAnalysis ............................ 20.73 mb 36.08 ms
+  200    GET /GrantBVASelectYear ............................ 20.81 mb 43.53 ms
+  302    POST /BVASelected ................................... 20.55 mb 5.16 ms
+  302    GET /ReturnYearlyBVA/12/2021 ........................ 20.55 mb 3.46 ms
+  200    GET /GrantBVASelectYear ............................ 20.81 mb 11.18 ms
+  302    POST /BVASelected ................................... 20.55 mb 9.34 ms
+  200    GET /ReturnYearlyBVA/11/2021 ....................... 20.76 mb 33.67 ms
+  200    GET /GrantBVASelectYear ............................ 20.81 mb 47.33 ms
+  302    POST /BVASelected ................................... 20.55 mb 7.00 ms
+  200    GET /ReturnYearlyBVA/13/2021 ....................... 20.77 mb 25.35 ms
+  200    GET /MgtEmp ....................................... 21.08 mb 104.55 ms
+  200    GET /SelectLeaveApply .............................. 20.74 mb 10.46 ms
+  200    GET /AssignLeave ................................... 20.74 mb 37.11 ms
+  200    GET /SelectConDocs ................................. 20.92 mb 33.39 ms
+  200    GET /SelectConDocs ................................. 20.93 mb 19.94 ms
+  200    GET /SelectConDocs ................................. 20.92 mb 47.25 ms
+  200    GET /ConSoonExpiring ............................... 20.72 mb 59.84 ms
+  200    GET /GrantValidityAnalysis ......................... 20.75 mb 23.71 ms
+  200    GET /SelectConDocs ................................. 20.93 mb 22.01 ms
+  200    GET /GrantBVASelectYear ............................ 20.82 mb 37.77 ms
+  302    POST /BVASelected ................................... 20.56 mb 6.23 ms
+  200    GET /ReturnYearlyBVA/11/2021 ....................... 20.77 mb 21.57 ms
+  200    GET /HRDash ....................................... 21.57 mb 166.26 ms
+  200    GET /GrantValidityAnalysis ......................... 20.85 mb 16.79 ms
+  200    GET /GrantValidityAnalysis ......................... 20.85 mb 16.18 ms
+  200    GET /GrantValidityAnalysis ......................... 20.85 mb 20.86 ms
+  302    GET /GrantValidityAnalysis .......................... 20.68 mb 4.06 ms
+  200    GET /login ......................................... 20.67 mb 67.25 ms
+  404    GET /assets/bg.svg .................................. 20.68 mb 5.93 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 20.64 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 18.84 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 10.04 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 17.05 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 12.10 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 12.40 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /GrantValidityAnalysis ......................... 17.73 mb 72.34 ms
+  200    GET /MgtRoles ...................................... 19.18 mb 45.55 ms
+  200    GET /MgtRoles ...................................... 19.18 mb 26.40 ms
+  405    GET /NewRole ...................................... 19.75 mb 101.32 ms
+  200    GET /MgtRoles ...................................... 19.76 mb 25.08 ms
+  200    GET /MgtRoles ...................................... 19.76 mb 45.98 ms
+  200    GET /MgtRoles ...................................... 19.76 mb 38.96 ms
+  200    GET / .............................................. 19.32 mb 23.38 ms
+  302    GET /login .......................................... 19.43 mb 3.73 ms
+  200    GET /dashboard .................................... 20.18 mb 108.70 ms
+  200    GET /dashboard .................................... 20.18 mb 132.15 ms
+  200    GET / ............................................... 19.64 mb 3.59 ms
+  200    GET / ............................................... 19.65 mb 5.93 ms
+  200    GET / ............................................... 19.65 mb 3.92 ms
+  200    GET / .............................................. 19.65 mb 48.95 ms
+  200    GET /login ......................................... 19.71 mb 79.92 ms
+  404    GET /assets/bg.svg ................................. 19.84 mb 64.15 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /login ........................................ 15.67 mb 321.12 ms
+  404    GET /assets/bg.svg ................................ 15.93 mb 188.61 ms
+  302    POST /login ....................................... 18.35 mb 342.06 ms
+  200    GET /dashboard .................................... 20.44 mb 611.80 ms
+  200    GET / .............................................. 19.91 mb 78.23 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   Error 
+
+  Class "LaravelPWA\Providers\LaravelPWAServiceProvider" not found
+
+  at /var/www/html/africhild.mis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:735
+    731▕      * @return \Illuminate\Support\ServiceProvider
+    732▕      */
+    733▕     public function resolveProvider($provider)
+    734▕     {
+  ➜ 735▕         return new $provider($this);
+    736▕     }
+    737▕ 
+    738▕     /**
+    739▕      * Mark the given provider as registered.
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  302    GET /dashboard ..................................... 15.61 mb 42.75 ms
+  200    GET /login ......................................... 16.08 mb 47.29 ms
+  404    GET /assets/bg.svg .................................. 16.17 mb 3.63 ms
+  500    GET /offline ...................................... 17.60 mb 186.82 ms
+  200    GET /manifest.json .................................. 17.11 mb 5.58 ms
+  302    POST /login ....................................... 19.54 mb 123.22 ms
+  200    GET /dashboard .................................... 21.62 mb 200.65 ms
+  500    GET /offline ....................................... 21.64 mb 33.91 ms
+  200    GET /manifest.json .................................. 21.10 mb 7.10 ms
+  200    GET /manifest.json .................................. 21.11 mb 3.67 ms
+  200    GET /dashboard .................................... 21.72 mb 127.53 ms
+  500    GET /offline ....................................... 21.69 mb 29.76 ms
+  200    GET /manifest.json .................................. 21.15 mb 7.57 ms
+  200    GET /dashboard .................................... 21.76 mb 117.64 ms
+  500    GET /offline ....................................... 21.73 mb 41.30 ms
+  200    GET /manifest.json .................................. 21.19 mb 5.55 ms
+  200    GET /dashboard .................................... 21.81 mb 108.37 ms
+  500    GET /offline ....................................... 21.77 mb 40.89 ms
+  200    GET /manifest.json .................................. 21.23 mb 2.30 ms
+  200    GET /manifest.json .................................. 21.23 mb 3.40 ms
+  200    GET / ............................................... 21.26 mb 3.36 ms
+  500    GET /offline ....................................... 21.83 mb 28.49 ms
+  200    GET /manifest.json .................................. 21.29 mb 3.13 ms
+  200    GET /dashboard .................................... 21.91 mb 113.73 ms
+  500    GET /offline ....................................... 21.87 mb 30.18 ms
+  200    GET /manifest.json .................................. 21.33 mb 4.13 ms
+  200    GET /dashboard .................................... 21.95 mb 101.93 ms
+  500    GET /offline ....................................... 21.92 mb 27.86 ms
+  200    GET /manifest.json .................................. 21.38 mb 7.19 ms
+  200    GET /dashboard .................................... 21.99 mb 130.72 ms
+  500    GET /offline ....................................... 21.96 mb 33.08 ms
+  200    GET /manifest.json .................................. 21.42 mb 4.85 ms
+  200    GET /dashboard .................................... 22.04 mb 100.49 ms
+  500    GET /offline ....................................... 22.00 mb 30.49 ms
+  200    GET /manifest.json .................................. 21.46 mb 4.58 ms
+  200    GET /dashboard .................................... 22.08 mb 107.87 ms
+  200    GET /manifest.json .................................. 21.46 mb 2.97 ms
+  200    GET /GrantBVASelectYear ........................... 21.89 mb 230.57 ms
+  200    GET /manifest.json .................................. 21.60 mb 3.31 ms
+  200    GET / .............................................. 21.62 mb 11.27 ms
+  200    GET /manifest.json .................................. 21.60 mb 4.54 ms
+  200    GET / ............................................... 21.62 mb 5.33 ms
+  200    GET /manifest.json ................................. 15.35 mb 37.86 ms
+  200    GET / ............................................... 21.61 mb 6.04 ms
+  302    GET /login ......................................... 21.60 mb 10.69 ms
+  200    GET /dashboard .................................... 22.21 mb 112.64 ms
+  200    GET /manifest.json .................................. 21.60 mb 4.47 ms
+  200    GET /dashboard ..................................... 22.22 mb 93.38 ms
+  200    GET / ............................................... 21.61 mb 3.86 ms
+  200    GET /manifest.json .................................. 15.36 mb 3.03 ms
+  200    GET /dashboard .................................... 22.21 mb 123.38 ms
+  200    GET /manifest.json .................................. 21.60 mb 5.39 ms
+  200    GET / ............................................... 21.61 mb 7.48 ms
+  200    GET /dashboard .................................... 22.22 mb 115.31 ms
+  200    GET /manifest.json .................................. 21.60 mb 2.52 ms
+  200    GET / ............................................... 21.61 mb 3.41 ms
+  200    GET /dashboard .................................... 22.22 mb 110.43 ms
+  200    GET /manifest.json .................................. 21.60 mb 3.03 ms
+  200    GET / ............................................... 21.61 mb 5.51 ms
+  200    GET /dashboard ..................................... 22.22 mb 90.53 ms
+  200    GET /manifest.json .................................. 21.60 mb 2.94 ms
+  200    GET /dashboard .................................... 22.22 mb 100.33 ms
+  200    GET / ............................................... 21.61 mb 4.53 ms
+  200    GET /manifest.json .................................. 21.60 mb 5.63 ms
+  200    GET /dashboard .................................... 22.22 mb 101.63 ms
+  200    GET /manifest.json .................................. 21.60 mb 3.78 ms
+  200    GET /manifest.json .................................. 15.36 mb 1.88 ms
+  200    GET /dashboard .................................... 22.21 mb 125.10 ms
+  200    GET / ............................................... 21.61 mb 3.83 ms
+  200    GET /dashboard .................................... 22.22 mb 108.86 ms
+  200    GET /manifest.json .................................. 21.60 mb 3.55 ms
+  200    GET /dashboard .................................... 22.22 mb 100.44 ms
+  200    GET /manifest.json .................................. 21.60 mb 5.27 ms
+  200    GET /dashboard ..................................... 22.22 mb 96.35 ms
+  200    GET /manifest.json ................................. 21.60 mb 25.86 ms
+  200    GET / ............................................... 21.61 mb 3.58 ms
+  200    GET /dashboard ..................................... 22.22 mb 97.49 ms
+  200    GET /manifest.json .................................. 21.60 mb 5.86 ms
+  200    GET / ............................................... 21.61 mb 4.43 ms
+  200    GET /dashboard .................................... 22.22 mb 100.89 ms
+  200    GET /manifest.json .................................. 21.60 mb 4.40 ms
+  200    GET / ............................................... 21.61 mb 4.35 ms
+  302    GET /GrantValidityAnalysis ......................... 21.62 mb 24.73 ms
+  200    GET /login .......................................... 21.62 mb 9.35 ms
+  404    GET /assets/bg.svg .................................. 21.61 mb 3.10 ms
+  200    GET /manifest.json .................................. 21.60 mb 6.67 ms
+  200    GET / ............................................... 21.62 mb 4.00 ms
+  302    POST /login ........................................ 21.61 mb 83.42 ms
+  200    GET /GrantValidityAnalysis ........................ 21.94 mb 224.45 ms
+  200    GET / ............................................... 21.75 mb 4.83 ms
+  200    GET /manifest.json .................................. 21.73 mb 2.84 ms
+  200    GET /manifest.json .................................. 21.73 mb 3.70 ms
+  200    GET /GrantBVASelectYear ............................ 22.02 mb 16.31 ms
+  200    GET / ............................................... 21.75 mb 5.00 ms
+  200    GET /manifest.json .................................. 21.73 mb 3.28 ms
+  200    GET /SelectConDocs ................................. 22.18 mb 91.56 ms
+  200    GET / ............................................... 21.80 mb 3.77 ms
+  200    GET /manifest.json .................................. 21.79 mb 2.85 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+  500    GET /offline ..................................... 18.71 mb 1557.37 ms
+  200    GET /_ignition/health-check ....................... 20.99 mb 222.71 ms
+  500    GET /offline ...................................... 21.57 mb 134.45 ms
+
+   INFO  Application change detected. Restarting workers…
+  200    GET /offline ....................................... 15.34 mb 31.50 ms
+  200    GET /manifest.json ................................. 15.44 mb 69.88 ms
+  200    GET /offline ........................................ 15.46 mb 5.39 ms
+  200    GET / ............................................... 15.46 mb 5.91 ms
+  200    GET /offline ........................................ 15.46 mb 6.73 ms
+  200    GET /manifest.json .................................. 15.45 mb 3.19 ms
+  200    GET /offline ....................................... 15.46 mb 13.40 ms
+  200    GET / ............................................... 15.46 mb 3.02 ms
+  200    GET /offline ........................................ 15.46 mb 8.43 ms
+  200    GET /manifest.json .................................. 15.45 mb 4.00 ms
+  200    GET /offline ........................................ 15.46 mb 3.08 ms
+  200    GET /manifest.json .................................. 15.45 mb 3.62 ms
+  200    GET /offline ........................................ 15.46 mb 6.52 ms
+  200    GET / ............................................... 15.46 mb 4.35 ms
+  200    GET /offline ....................................... 15.46 mb 10.69 ms
+  200    GET / ............................................... 15.46 mb 4.68 ms
+  200    GET /SelectConDocs ................................ 17.87 mb 190.69 ms
+  200    GET /offline ........................................ 17.49 mb 4.10 ms
+  200    GET / ............................................... 17.49 mb 4.21 ms
+  200    GET /manifest.json .................................. 17.48 mb 3.11 ms
+  200    GET /offline ........................................ 17.49 mb 5.74 ms
+  200    GET / ............................................... 17.49 mb 3.62 ms
+  200    GET /offline ........................................ 17.49 mb 3.43 ms
+  200    GET / ............................................... 17.49 mb 3.71 ms
+  200    GET /offline ........................................ 17.49 mb 3.86 ms
+  200    GET / ............................................... 17.49 mb 4.31 ms
+  200    GET /offline ........................................ 17.49 mb 8.77 ms
+  200    GET / ............................................... 17.49 mb 4.25 ms
+  200    GET /offline ........................................ 17.49 mb 4.85 ms
+  200    GET / ............................................... 17.49 mb 4.56 ms
+  200    GET /offline ........................................ 17.49 mb 3.04 ms
+  200    GET / ............................................... 17.49 mb 3.56 ms
+  200    GET /offline ........................................ 17.49 mb 9.56 ms
+  200    GET / ............................................... 17.49 mb 3.38 ms
+  200    GET /offline ........................................ 17.49 mb 4.40 ms
+  200    GET / ............................................... 17.49 mb 3.29 ms
+  200    GET /SelectConDocs ................................. 17.87 mb 23.55 ms
+  200    GET /offline ...................................... 17.51 mb 125.24 ms
+  200    GET / ............................................... 17.51 mb 4.95 ms
+  200    GET /manifest.json .................................. 17.49 mb 3.27 ms
+  200    GET /SelectConDocs ................................. 17.89 mb 10.43 ms
+  200    GET /offline ........................................ 17.51 mb 5.36 ms
+  200    GET / ............................................... 17.51 mb 3.71 ms
+  200    GET /manifest.json .................................. 17.49 mb 3.32 ms
+  200    GET /SelectConDocs ................................. 17.88 mb 24.84 ms
+  200    GET /manifest.json .................................. 17.49 mb 9.54 ms
+  200    GET /MgtDeductions ................................ 19.09 mb 619.10 ms
+  200    GET /manifest.json .................................. 18.89 mb 7.37 ms
+  200    GET /MgtDeductions ................................. 19.09 mb 99.37 ms
+  200    GET /manifest.json .................................. 18.89 mb 6.87 ms
+  200    GET /MgtDeductions ................................. 19.09 mb 85.99 ms
+  200    GET /manifest.json .................................. 18.89 mb 3.47 ms
+  200    GET /GrantValueAnalysis ........................... 19.33 mb 183.96 ms
+  200    GET /manifest.json .................................. 19.11 mb 2.41 ms
+  200    GET /SelectLeaveApply .............................. 19.43 mb 79.60 ms
+  200    GET /manifest.json .................................. 19.21 mb 3.34 ms
+  200    GET /GrantDatabase ................................ 19.79 mb 192.75 ms
+  200    GET /GrantBVASelectYear ............................ 19.73 mb 30.99 ms
+  200    GET /manifest.json .................................. 19.43 mb 5.59 ms
+  200    GET /MgtTaxes ..................................... 19.66 mb 153.15 ms
+  200    GET /manifest.json .................................. 19.46 mb 3.58 ms
+  200    GET /MgtEmp ....................................... 20.23 mb 135.57 ms
+  200    GET /manifest.json .................................. 19.61 mb 8.72 ms
+  200    GET /MgtEmp ....................................... 20.33 mb 183.19 ms
+  200    GET /manifest.json .................................. 19.71 mb 2.98 ms
+  200    GET /MgtEmp ........................................ 20.33 mb 98.07 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.81 ms
+  200    GET /offline ........................................ 19.73 mb 8.04 ms
+  200    GET / ............................................... 19.73 mb 4.51 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.46 ms
+  200    GET /MgtEmp ....................................... 20.33 mb 107.04 ms
+  200    GET /manifest.json .................................. 19.71 mb 4.40 ms
+  200    GET /MgtEmp ....................................... 20.33 mb 114.09 ms
+  200    GET /manifest.json .................................. 19.71 mb 4.13 ms
+  200    GET /AssignLeave ................................... 19.93 mb 25.47 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.43 ms
+  200    GET /MgtUsers ...................................... 19.96 mb 46.59 ms
+  200    GET /manifest.json .................................. 19.72 mb 3.21 ms
+  200    GET /MgtEmp ....................................... 20.33 mb 119.95 ms
+  200    GET /manifest.json .................................. 19.72 mb 7.18 ms
+  200    GET /GrantValidityAnalysis ......................... 19.94 mb 29.84 ms
+  200    GET /manifest.json .................................. 19.72 mb 3.62 ms
+  200    GET /MgtTaxes ..................................... 19.92 mb 108.35 ms
+  200    GET /manifest.json .................................. 19.72 mb 2.80 ms
+  200    GET /GrantValueAnalysis ............................ 19.93 mb 22.74 ms
+  200    GET /manifest.json ................................. 19.72 mb 45.20 ms
+  200    GET /SelectConDocs ................................. 20.12 mb 15.48 ms
+  200    GET /manifest.json .................................. 19.72 mb 5.92 ms
+  302    POST /ConDocsSelected .............................. 19.78 mb 32.21 ms
+  200    GET /ConReturnDocs/1 .............................. 20.27 mb 246.34 ms
+  200    GET /offline ........................................ 19.87 mb 8.71 ms
+  200    GET / ............................................... 19.87 mb 3.90 ms
+  200    GET /manifest.json .................................. 19.86 mb 3.01 ms
+  200    GET /manifest.json .................................. 19.86 mb 3.06 ms
+  200    GET /offline ....................................... 19.87 mb 11.07 ms
+  200    GET / ............................................... 19.87 mb 4.12 ms
+  200    GET / ............................................... 19.87 mb 3.21 ms
+  200    GET /manifest.json .................................. 19.86 mb 4.20 ms
+  302    GET /login ......................................... 19.87 mb 33.08 ms
+  200    GET /dashboard ..................................... 20.49 mb 83.78 ms
+  200    GET /manifest.json .................................. 19.87 mb 7.08 ms
+  302    GET /ConReturnDocs/1 ............................... 19.95 mb 46.59 ms
+  200    GET /login ......................................... 20.02 mb 80.93 ms
+  404    GET /assets/bg.svg ................................ 20.07 mb 353.31 ms
+  200    GET /manifest.json .................................. 20.06 mb 8.14 ms
+  302    POST /login ....................................... 20.84 mb 510.93 ms
+  200    GET /ConReturnDocs/1 ............................... 21.25 mb 86.64 ms
+  200    GET /manifest.json .................................. 20.84 mb 4.98 ms
+  200    GET /ConReturnDocs/1 ............................... 21.25 mb 90.40 ms
+  200    GET /manifest.json ................................. 15.35 mb 58.85 ms
+  200    GET /LeaveSettings ................................ 21.48 mb 140.92 ms
+  200    GET /manifest.json .................................. 20.87 mb 3.16 ms
+  200    GET /MgtUsers ....................................... 21.10 mb 7.52 ms
+  200    GET /manifest.json .................................. 20.87 mb 5.68 ms
+  200    GET /MgtDeductions ................................ 21.07 mb 134.74 ms
+  200    GET /manifest.json .................................. 20.87 mb 3.30 ms
+  200    GET /MgtDeductions ................................ 21.07 mb 102.08 ms
+  200    GET /manifest.json .................................. 20.87 mb 6.86 ms
+  200    GET / ............................................... 20.88 mb 3.84 ms
+  200    GET /MgtUsers ...................................... 21.10 mb 33.87 ms
+  200    GET /manifest.json .................................. 20.87 mb 5.31 ms
+  200    GET /manifest.json .................................. 20.87 mb 6.81 ms
+  200    GET /MgtUsers ...................................... 21.10 mb 30.47 ms
+  200    GET /manifest.json .................................. 20.87 mb 3.95 ms
+  200    GET / ............................................... 20.88 mb 2.82 ms
+  200    GET /MgtUsers ...................................... 21.10 mb 10.97 ms
+  200    GET /manifest.json .................................. 15.36 mb 2.99 ms
+  200    GET /MgtUsers ...................................... 21.10 mb 15.69 ms
+  200    GET /manifest.json .................................. 20.87 mb 2.46 ms
+  200    GET / ............................................... 20.88 mb 3.66 ms
+  302    GET /MgtUsers ....................................... 20.87 mb 5.42 ms
+  200    GET /login ........................................ 20.88 mb 150.23 ms
+  404    GET /assets/bg.svg ................................. 20.87 mb 43.73 ms
+  200    GET / ............................................... 20.88 mb 3.45 ms
+  302    POST /login ........................................ 20.87 mb 82.21 ms
+  200    GET /MgtUsers ...................................... 21.10 mb 16.13 ms
+  200    GET / ............................................... 20.88 mb 4.31 ms
+  302    GET /MgtUsers ...................................... 20.88 mb 79.46 ms
+  200    GET /login ......................................... 20.88 mb 13.55 ms
+  404    GET /assets/js/fslightbox.js' ....................... 20.88 mb 1.95 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 17.13 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 20.90 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 14.88 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 41.95 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 11.07 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 18.17 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 16.80 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 15.51 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 27.86 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 23.94 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 30.20 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 16.57 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 52.03 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 17.15 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 11.24 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 11.21 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 24.16 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 14.84 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 83.70 ms
+  200    GET /manifest.json ................................ 20.87 mb 208.22 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 19.16 ms
+  200    GET /manifest.json .................................. 20.87 mb 2.54 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 19.87 ms
+  200    GET /manifest.json ................................. 20.87 mb 84.06 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 11.34 ms
+  200    GET /manifest.json .................................. 20.87 mb 5.30 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 31.97 ms
+  200    GET /manifest.json .................................. 20.87 mb 5.78 ms
+  200    GET /MgtUsers ...................................... 21.11 mb 23.71 ms
+  200    GET /manifest.json .................................. 20.87 mb 4.50 ms
+  200    GET /MgtUsers ....................................... 21.11 mb 7.39 ms
+  200    GET /manifest.json .................................. 20.87 mb 3.01 ms
+  200    GET /LeaveSettings ................................ 21.48 mb 593.67 ms
+  200    GET /manifest.json .................................. 20.87 mb 6.44 ms
+  200    GET /LeaveSettings ................................ 21.48 mb 104.29 ms
+  200    GET /LeaveSettings ................................ 21.48 mb 101.44 ms
+  200    GET /manifest.json .................................. 20.87 mb 3.37 ms
+  200    GET /LeaveSettings ................................ 21.48 mb 354.64 ms
+  200    GET /manifest.json .................................. 20.87 mb 7.55 ms
+  200    GET /dashboard .................................... 21.49 mb 291.03 ms
+  200    GET /manifest.json .................................. 20.88 mb 5.73 ms
+  200    GET /dashboard .................................... 21.49 mb 103.53 ms
+  200    GET /manifest.json .................................. 20.88 mb 3.71 ms
+  200    GET /dashboard .................................... 21.49 mb 104.06 ms
+  200    GET /manifest.json .................................. 20.88 mb 4.54 ms
+  200    GET /dashboard .................................... 21.48 mb 226.67 ms
+  200    GET /MgtRoles ..................................... 21.37 mb 159.19 ms
+  200    GET /SelectConDocs ................................. 21.27 mb 40.28 ms
+  302    POST /ConDocsSelected .............................. 20.88 mb 35.80 ms
+  200    GET /ConReturnDocs/1 .............................. 21.29 mb 380.38 ms
+  302    POST /NewConDoc ................................... 22.70 mb 605.11 ms
+  200    GET /ConReturnDocs/1 .............................. 22.90 mb 145.30 ms
+  200    GET /MgtRoles ...................................... 22.98 mb 25.46 ms
+  200    GET /ContractorConTrack ........................... 22.88 mb 197.94 ms
+  200    GET /ContractorConTrack ............................ 22.88 mb 24.47 ms
+  200    GET /GrantValueAnalysis ........................... 22.69 mb 500.06 ms
+  200    GET /SelectConDocs ................................. 22.88 mb 23.90 ms
+  200    GET /SelectConDocs .................................. 22.88 mb 8.52 ms
+  200    GET /SelectConDocs ................................. 22.88 mb 15.96 ms
+  200    GET /SelectConDocs ................................. 22.88 mb 16.43 ms
+  200    GET /SelectStaffDocs ............................... 22.71 mb 28.00 ms
+  302    POST /DocsSelected ................................. 22.50 mb 10.40 ms
+  200    GET /ReturnDocs/6 ................................. 22.71 mb 258.66 ms
+  302    POST /NewDoc ..................................... 22.96 mb 1876.97 ms
+  200    GET /ReturnDocs/6 ................................. 23.00 mb 107.29 ms
+  200    GET /dashboard .................................... 23.40 mb 110.83 ms
+  200    GET /GrantValueAnalysis ............................ 22.99 mb 20.39 ms
+  200    GET /LeaveSettings ................................. 23.40 mb 97.82 ms
+  200    GET /MgtDonors .................................... 23.35 mb 359.38 ms
+  200    GET /MgtDonors .................................... 23.34 mb 107.40 ms
+  200    GET /LeaveSettings ................................ 23.41 mb 106.41 ms
+  200    GET /manifest.json .................................. 22.80 mb 3.42 ms
+  200    GET /LeaveSettings ................................. 23.41 mb 97.48 ms
+  200    GET /manifest.json .................................. 22.80 mb 3.25 ms
+  200    GET /LeaveSettings ................................ 23.41 mb 105.46 ms
+  200    GET /manifest.json .................................. 22.80 mb 3.14 ms
+  200    GET /MgtBenefitsSalary ............................ 23.03 mb 235.49 ms
+  200    GET /manifest.json .................................. 22.83 mb 7.51 ms
+  200    GET /MgtUsers ...................................... 23.06 mb 49.57 ms
+  200    GET /manifest.json .................................. 22.83 mb 3.11 ms
+  200    GET /MgtDonors .................................... 23.37 mb 120.67 ms
+  200    GET /offline ....................................... 22.84 mb 67.58 ms
+  200    GET /MgtDonors ..................................... 23.37 mb 95.13 ms
+  200    GET /MgtDonors ..................................... 23.37 mb 94.86 ms
+  200    GET /MgtDonors ..................................... 23.37 mb 85.97 ms
+  200    GET /MgtDonors .................................... 23.37 mb 142.91 ms
+  200    GET /MgtDonors ..................................... 23.37 mb 98.59 ms
+  200    GET /MgtDonors .................................... 23.37 mb 119.84 ms
+  200    GET / .............................................. 22.85 mb 19.85 ms
+  200    GET /manifest.json .................................. 22.83 mb 3.05 ms
+  200    GET /offline ........................................ 22.85 mb 7.98 ms
+  302    GET /login .......................................... 22.83 mb 3.55 ms
+  200    GET /dashboard ..................................... 23.45 mb 93.91 ms
+  200    GET /manifest.json .................................. 22.83 mb 4.43 ms
+  200    GET /SelectConDocs ................................. 23.23 mb 22.44 ms
+  200    GET /manifest.json .................................. 22.83 mb 4.55 ms
+  200    GET /SelectConDocs ................................. 23.23 mb 31.11 ms
+  200    GET /manifest.json .................................. 22.83 mb 2.97 ms
+  200    GET /MgtBenefitsSalary ............................ 23.03 mb 120.39 ms
+  200    GET /manifest.json .................................. 22.83 mb 4.63 ms
+  200    GET /MgtDeductions ................................ 23.04 mb 200.76 ms
+  200    GET /MgtBenefitsSalary ............................. 23.03 mb 98.41 ms
+  200    GET /manifest.json .................................. 22.83 mb 2.69 ms
+  200    GET /manifest.json .................................. 22.83 mb 3.34 ms
+  200    GET /GrantValidityAnalysis ........................ 23.04 mb 115.56 ms
+  200    GET /manifest.json .................................. 22.83 mb 7.62 ms
+  200    GET /ContractorConTrack ............................ 23.23 mb 29.03 ms
+  200    GET /manifest.json .................................. 22.83 mb 9.00 ms
+  200    GET /GrantDatabase ................................ 23.19 mb 277.97 ms
+  200    GET /MgtCons ...................................... 23.83 mb 178.02 ms
+  200    GET /manifest.json .................................. 22.84 mb 3.12 ms
+  200    GET /GrantValidityAnalysis ......................... 23.05 mb 10.94 ms
+  200    GET /manifest.json .................................. 22.84 mb 3.65 ms
+  200    GET /manifest.json .................................. 22.85 mb 2.33 ms
+  302    GET /login .......................................... 22.84 mb 2.68 ms
+  200    GET /dashboard ..................................... 23.46 mb 94.15 ms
+  200    GET /manifest.json .................................. 22.84 mb 2.82 ms
+  200    GET /MgtTaxes ..................................... 23.04 mb 145.83 ms
+  200    GET /manifest.json .................................. 22.84 mb 2.65 ms
+  200    GET /LeaveSettings ................................ 23.45 mb 145.41 ms
+  200    GET /manifest.json .................................. 22.84 mb 2.98 ms
+  200    GET /ContractorConTrack ............................ 23.24 mb 14.71 ms
+  200    GET /manifest.json .................................. 22.84 mb 4.81 ms
+  200    GET /MgtEmp ....................................... 23.46 mb 106.57 ms
+  200    GET /manifest.json .................................. 22.84 mb 3.05 ms
+  200    GET /GrantValueAnalysis ............................ 23.05 mb 33.68 ms
+  200    GET /manifest.json .................................. 22.84 mb 2.42 ms
+  200    GET /ContractorConTrack ............................ 23.24 mb 22.04 ms
+  200    GET /manifest.json .................................. 22.84 mb 4.26 ms
+
+   INFO  Application change detected. Restarting workers…
+  200    GET / ............................................. 15.38 mb 882.91 ms
+  200    GET /manifest.json ................................. 15.48 mb 38.04 ms
+  302    GET /login ........................................ 17.38 mb 325.01 ms
+  200    GET /dashboard .................................... 19.58 mb 700.33 ms
+  200    GET /manifest.json .................................. 19.04 mb 4.46 ms
+  200    GET /dashboard .................................... 19.59 mb 113.98 ms
+  200    GET /manifest.json .................................. 19.04 mb 5.17 ms
+  200    GET /dashboard .................................... 19.59 mb 116.31 ms
+  200    GET /manifest.json .................................. 19.04 mb 6.89 ms
+  200    GET /MgtRoles ..................................... 19.50 mb 258.87 ms
+  200    GET /MgtCons ...................................... 20.08 mb 216.36 ms
+  200    GET /manifest.json .................................. 19.12 mb 6.74 ms
+  200    GET /MgtCons ...................................... 20.08 mb 134.73 ms
+  200    GET /manifest.json .................................. 19.12 mb 7.88 ms
+  200    GET /MgtDeductions ............................... 19.41 mb 1055.62 ms
+  200    GET /manifest.json .................................. 19.22 mb 2.94 ms
+  200    GET /GrantValidityAnalysis ........................ 19.68 mb 842.61 ms
+  200    GET /manifest.json .................................. 19.47 mb 3.76 ms
+  200    GET /MgtTaxes ..................................... 19.68 mb 218.83 ms
+  200    GET /manifest.json .................................. 19.50 mb 7.21 ms
+  200    GET /SelectConDocs ................................. 19.88 mb 55.82 ms
+  200    GET /manifest.json .................................. 19.50 mb 3.90 ms
+  200    GET /GrantValueAnalysis ............................ 19.70 mb 32.33 ms
+  200    GET /manifest.json .................................. 19.50 mb 3.76 ms
+  200    GET /MgtTaxes ..................................... 19.69 mb 102.01 ms
+  200    GET /manifest.json .................................. 19.50 mb 6.15 ms
+  200    GET /ExpiredCons .................................. 19.94 mb 157.24 ms
+  200    GET /manifest.json .................................. 19.51 mb 4.24 ms
+  200    GET /dashboard .................................... 20.05 mb 153.41 ms
+  200    GET /manifest.json ............................... 15.38 mb 1608.02 ms
+  200    GET /dashboard .................................... 20.06 mb 119.87 ms
+  200    GET /manifest.json .................................. 19.51 mb 7.36 ms
+  200    GET /dashboard .................................... 20.06 mb 110.43 ms
+  200    GET /manifest.json .................................. 19.51 mb 4.92 ms
+  200    GET /ExpiredCons .................................. 19.94 mb 115.82 ms
+  200    GET /manifest.json .................................. 19.51 mb 5.88 ms
+  200    GET /manifest.json .................................. 15.39 mb 3.38 ms
+  200    GET /ExpiredCons .................................. 19.94 mb 122.91 ms
+  200    GET /ExpiredCons .................................. 19.94 mb 126.07 ms
+  200    GET /manifest.json .................................. 19.50 mb 8.59 ms
+  200    GET /manifest.json ................................ 19.52 mb 102.10 ms
+  200    GET /ExpiredCons .................................. 19.95 mb 179.71 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.88 ms
+  200    GET /ExpiredCons .................................. 19.95 mb 131.86 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.86 ms
+  200    GET /manifest.json .................................. 19.52 mb 7.10 ms
+  200    GET /ExpiredCons .................................. 19.95 mb 102.08 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.15 ms
+  200    GET /MgtUsers ..................................... 19.74 mb 197.16 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.83 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 44.22 ms
+  200    GET /offline ...................................... 19.53 mb 123.81 ms
+  200    GET /manifest.json .................................. 19.52 mb 3.96 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 25.90 ms
+  200    GET /manifest.json .................................. 19.52 mb 5.42 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 18.81 ms
+  200    GET /manifest.json .................................. 19.52 mb 3.38 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 42.01 ms
+  200    GET /manifest.json .................................. 19.52 mb 3.83 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 18.36 ms
+  200    GET /manifest.json .................................. 19.52 mb 5.75 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 15.89 ms
+  200    GET /manifest.json .................................. 19.52 mb 6.05 ms
+  200    GET /manifest.json ................................. 15.39 mb 18.40 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 23.39 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 19.23 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.27 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 17.40 ms
+  200    GET /manifest.json .................................. 19.52 mb 3.45 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 18.41 ms
+  200    GET /manifest.json .................................. 19.52 mb 3.40 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 20.20 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.19 ms
+  200    GET /MgtUsers ...................................... 19.74 mb 18.00 ms
+  200    GET /manifest.json .................................. 19.52 mb 4.41 ms
+  200    GET /MgtDepts ..................................... 20.35 mb 174.44 ms
+  200    GET /MgtCons ....................................... 20.49 mb 94.12 ms
+  200    GET /manifest.json .................................. 19.53 mb 3.76 ms
+  200    GET /SelectConDocs ................................. 19.92 mb 21.50 ms
+  200    GET /MgtCons ...................................... 20.49 mb 130.12 ms
+  200    GET /manifest.json .................................. 19.53 mb 3.35 ms
+  200    GET /MgtCons ....................................... 20.49 mb 95.44 ms
+  200    GET /manifest.json .................................. 19.53 mb 2.28 ms
+  200    GET /MgtCons ...................................... 20.49 mb 104.26 ms
+  200    GET /manifest.json .................................. 19.53 mb 6.80 ms
+  200    GET /manifest.json .................................. 15.39 mb 2.92 ms
+  200    GET /MgtCons ...................................... 20.49 mb 106.73 ms
+  200    GET /MgtCons ...................................... 20.49 mb 116.44 ms
+  200    GET /manifest.json .................................. 19.53 mb 4.29 ms
+  200    GET /MgtCons ...................................... 20.49 mb 113.69 ms
+  200    GET /manifest.json ................................. 19.53 mb 35.04 ms
+  200    GET / ............................................... 19.54 mb 7.99 ms
+  200    GET /manifest.json .................................. 19.53 mb 2.65 ms
+  302    GET /login .......................................... 19.53 mb 3.34 ms
+  200    GET /dashboard ..................................... 20.08 mb 95.46 ms
+  200    GET /manifest.json .................................. 19.53 mb 3.13 ms
+  200    GET /MgtRoles ..................................... 19.99 mb 120.34 ms
+  200    GET /SelectLeaveApply ............................. 19.81 mb 130.76 ms
+  200    GET /manifest.json .................................. 19.61 mb 6.63 ms
+  302    POST /LeaveIdSelected .............................. 19.62 mb 11.10 ms
+  200    GET /ApplyForLeave/6 ............................... 20.10 mb 60.14 ms
+  200    GET /manifest.json .................................. 19.65 mb 2.40 ms
+  200    GET /MgtRoles ...................................... 20.11 mb 55.35 ms
+  200    GET / ............................................... 19.66 mb 3.23 ms
+  200    GET /manifest.json .................................. 19.65 mb 4.54 ms
+  200    GET / .............................................. 19.66 mb 14.63 ms
+  200    GET /manifest.json .................................. 19.65 mb 6.04 ms
+  302    GET /login ......................................... 19.65 mb 10.85 ms
+  200    GET /dashboard .................................... 20.20 mb 105.35 ms
+  200    GET /manifest.json .................................. 19.65 mb 4.14 ms
+  200    GET /SelectConDocs .................................. 20.04 mb 8.81 ms
+  200    GET /manifest.json .................................. 19.65 mb 5.55 ms
+  302    POST /ConDocsSelected ............................... 19.66 mb 5.68 ms
+  200    GET /ConReturnDocs/1 .............................. 20.09 mb 136.16 ms
+  200    GET /manifest.json .................................. 19.68 mb 3.41 ms
+  200    GET /manifest.json .................................. 19.68 mb 3.09 ms
+  200    GET /ConReturnDocs/1 .............................. 20.09 mb 104.06 ms
+  200    GET /manifest.json .................................. 19.68 mb 4.19 ms
+  200    GET /manifest.json .................................. 19.69 mb 2.13 ms
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  302    GET /login ........................................ 17.14 mb 836.57 ms
+  200    GET /dashboard .................................... 19.49 mb 937.54 ms
+  200    GET /manifest.json ................................. 19.02 mb 31.06 ms
+  200    GET /dashboard .................................... 19.57 mb 123.15 ms
+  200    GET /manifest.json .................................. 19.02 mb 7.76 ms
+  200    GET /dashboard .................................... 19.57 mb 127.83 ms
+  200    GET /manifest.json .................................. 19.02 mb 2.43 ms
+  200    GET /dashboard .................................... 19.57 mb 114.65 ms
+  200    GET /manifest.json .................................. 19.02 mb 7.11 ms
+  200    GET /dashboard .................................... 19.57 mb 123.49 ms
+  200    GET /manifest.json .................................. 19.02 mb 2.93 ms
+  200    GET /dashboard .................................... 19.57 mb 114.88 ms
+  200    GET /manifest.json .................................. 19.02 mb 7.31 ms
+  200    GET /MgtRoles ..................................... 19.49 mb 266.92 ms
+  200    GET /manifest.json .................................. 19.03 mb 4.08 ms
+  200    GET /MgtCons ...................................... 20.06 mb 247.29 ms
+  200    GET /manifest.json .................................. 19.10 mb 3.42 ms
+  200    GET /ExpiredCons .................................. 19.54 mb 134.22 ms
+  200    GET /manifest.json .................................. 19.11 mb 4.53 ms
+  200    GET /AssignLeave ................................... 19.39 mb 51.16 ms
+  200    GET /manifest.json .................................. 19.18 mb 3.51 ms
+  200    GET /SelectConDocs ................................. 19.57 mb 60.50 ms
+  200    GET /manifest.json .................................. 19.19 mb 5.90 ms
+  302    POST /ConDocsSelected ............................... 19.21 mb 6.73 ms
+  200    GET /ConReturnDocs/1 .............................. 19.64 mb 145.16 ms
+  200    GET /manifest.json .................................. 19.23 mb 5.27 ms
+  200    GET /MgtBenefitsSalary ............................ 19.52 mb 114.57 ms
+  200    GET /offline ........................................ 19.36 mb 9.05 ms
+  200    GET / ............................................... 19.36 mb 6.66 ms
+  200    GET /manifest.json .................................. 19.35 mb 6.58 ms
+  200    GET /login ........................................ 19.48 mb 159.15 ms
+  404    GET /assets/bg.svg ................................ 19.60 mb 348.68 ms
+  200    GET /manifest.json .................................. 19.59 mb 5.44 ms
+  302    POST /login ....................................... 20.37 mb 675.97 ms
+  200    GET /dashboard .................................... 20.91 mb 102.09 ms
+  200    GET /manifest.json .................................. 20.36 mb 3.25 ms
+  200    GET /MgtTaxes ..................................... 20.58 mb 127.23 ms
+  200    GET /manifest.json .................................. 20.39 mb 3.81 ms
+  200    GET /AssignLeave ................................... 20.60 mb 17.76 ms
+  200    GET /manifest.json .................................. 20.39 mb 4.10 ms
+  200    GET /GrantValueAnalysis ........................... 20.84 mb 347.18 ms
+  200    GET /manifest.json .................................. 20.64 mb 2.24 ms
+  200    GET /MgtEmp ....................................... 21.19 mb 135.55 ms
+  200    GET /manifest.json .................................. 20.64 mb 2.76 ms
+  200    GET /MgtUsers ...................................... 20.87 mb 51.57 ms
+  200    GET /manifest.json .................................. 20.65 mb 3.51 ms
+  200    GET /GrantValidityAnalysis ......................... 20.86 mb 55.18 ms
+  200    GET /manifest.json .................................. 20.65 mb 3.65 ms
+  200    GET /GrantValidityAnalysis ........................ 20.85 mb 325.86 ms
+  200    GET /manifest.json ................................ 20.65 mb 285.56 ms
+  200    GET /MgtBenefitsSalary ............................ 20.84 mb 136.13 ms
+  200    GET /manifest.json .................................. 20.65 mb 4.77 ms
+  200    GET /GrantBVASelectYear ............................ 20.94 mb 50.05 ms
+  200    GET /manifest.json .................................. 20.66 mb 3.69 ms
+  200    GET /MgtDepts ..................................... 21.48 mb 177.72 ms
+  200    GET /MgtRoles ..................................... 21.12 mb 158.26 ms
+  200    GET /MgtCons ...................................... 21.62 mb 179.29 ms
+  200    GET /manifest.json .................................. 20.66 mb 6.68 ms
+  200    GET /LeaveSettings ................................ 21.29 mb 221.16 ms
+  200    GET /manifest.json .................................. 20.69 mb 3.49 ms
+  200    GET /MgtBenefitsSalary ............................. 20.88 mb 98.96 ms
+  200    GET /manifest.json .................................. 20.69 mb 7.38 ms
+  200    GET /MgtRoles ...................................... 21.15 mb 32.94 ms
+  200    GET /manifest.json .................................. 20.69 mb 3.12 ms
+  200    GET /GrantValidityAnalysis ......................... 20.89 mb 25.36 ms
+  200    GET /manifest.json .................................. 20.69 mb 4.48 ms
+  200    GET /MgtTaxes ..................................... 20.88 mb 134.49 ms
+  200    GET /GrantBVASelectYear ............................ 20.97 mb 23.01 ms
+  200    GET /manifest.json .................................. 20.69 mb 5.57 ms
+  200    GET /GrantValidityAnalysis ......................... 20.89 mb 22.73 ms
+  200    GET /manifest.json .................................. 20.69 mb 7.92 ms
+  200    GET /MgtBenefitsSalary ............................ 20.88 mb 109.46 ms
+  200    GET /manifest.json .................................. 20.69 mb 7.27 ms
+  200    GET /AssignLeave ................................... 20.90 mb 17.48 ms
+  200    GET /manifest.json .................................. 20.69 mb 4.13 ms
+  200    GET /AssignLeave ................................... 20.90 mb 16.62 ms
+  200    GET /manifest.json .................................. 20.69 mb 6.21 ms
+  200    GET /GrantValueAnalysis ............................ 20.89 mb 58.02 ms
+  200    GET /manifest.json .................................. 20.69 mb 9.23 ms
+  200    GET /MgtEmp ....................................... 21.24 mb 165.03 ms
+  302    GET /login .......................................... 20.69 mb 7.74 ms
+  200    GET /dashboard .................................... 21.24 mb 114.02 ms
+  200    GET /manifest.json .................................. 20.69 mb 3.99 ms
+  200    GET /GrantValidityAnalysis ....................... 20.90 mb 2175.21 ms
+  200    GET /manifest.json .................................. 20.71 mb 4.57 ms
+  200    GET /SelectConDocs ................................. 21.09 mb 51.41 ms
+  200    GET /manifest.json .................................. 20.71 mb 3.26 ms
+  302    POST /ConDocsSelected ............................... 20.71 mb 4.83 ms
+  200    GET /ConReturnDocs/1 .............................. 21.11 mb 267.94 ms
+  200    GET /manifest.json .................................. 20.71 mb 8.61 ms
+  200    GET /GrantValidityAnalysis ......................... 20.90 mb 43.81 ms
+  200    GET /manifest.json .................................. 20.71 mb 3.84 ms
+  200    GET /MgtDonors .................................... 21.23 mb 374.00 ms
+  200    GET /manifest.json .................................. 20.82 mb 4.28 ms
+  200    GET / ............................................... 20.83 mb 8.01 ms
+  200    GET /manifest.json .................................. 20.82 mb 6.81 ms
+  302    GET /login .......................................... 20.82 mb 9.72 ms
+  200    GET /dashboard .................................... 21.37 mb 105.27 ms
+  200    GET /manifest.json .................................. 20.82 mb 2.90 ms
+  200    GET /MgtDepts ..................................... 21.64 mb 106.67 ms
+  200    GET /MgtDeductions ................................ 21.04 mb 156.29 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 13.83 ms
+  200    GET /manifest.json ................................ 15.38 mb 845.96 ms
+  200    GET /manifest.json .................................. 20.85 mb 3.01 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 22.46 ms
+  200    GET /manifest.json .................................. 20.85 mb 6.54 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 17.39 ms
+  200    GET /manifest.json .................................. 20.85 mb 3.53 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 15.58 ms
+  200    GET /manifest.json .................................. 20.85 mb 8.36 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 47.30 ms
+  200    GET /manifest.json .................................. 20.85 mb 6.01 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 26.68 ms
+  200    GET /manifest.json .................................. 20.85 mb 4.40 ms
+  200    GET /ExpiredCons .................................. 21.28 mb 134.47 ms
+  200    GET /manifest.json .................................. 20.85 mb 3.90 ms
+  200    GET /MgtTaxes ..................................... 21.03 mb 135.17 ms
+  200    GET /manifest.json .................................. 20.85 mb 6.58 ms
+  200    GET /GrantBVASelectYear ............................ 21.12 mb 26.55 ms
+  200    GET /manifest.json .................................. 20.85 mb 6.09 ms
+  200    GET /MgtDepts ..................................... 21.66 mb 142.17 ms
+  200    GET /SelectLeaveApply .............................. 21.05 mb 22.57 ms
+  200    GET /manifest.json .................................. 20.85 mb 2.52 ms
+  302    POST /LeaveIdSelected .............................. 20.85 mb 16.78 ms
+  200    GET /ApplyForLeave/6 ............................... 21.33 mb 62.96 ms
+  200    GET /offline ........................................ 20.89 mb 6.35 ms
+  200    GET /manifest.json .................................. 20.88 mb 4.15 ms
+  200    GET /ApplyForLeave/6 ............................... 21.33 mb 21.31 ms
+  200    GET /manifest.json .................................. 20.88 mb 9.93 ms
+  200    GET /ApplyForLeave/6 ............................... 21.33 mb 39.53 ms
+  200    GET /manifest.json .................................. 20.88 mb 4.41 ms
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  200    GET / ............................................ 15.37 mb 1304.94 ms
+  200    GET /offline ....................................... 15.38 mb 32.52 ms
+  200    GET /manifest.json ................................ 15.49 mb 529.58 ms
+  200    GET /login ........................................ 15.92 mb 260.63 ms
+  404    GET /assets/bg.svg ................................. 16.06 mb 72.91 ms
+  200    GET /manifest.json .................................. 16.05 mb 3.97 ms
+  302    POST /login ....................................... 18.48 mb 996.47 ms
+  200    GET /dashboard ................................... 20.63 mb 1230.55 ms
+  200    GET /manifest.json .................................. 20.08 mb 4.99 ms
+  200    GET /MgtTaxes ..................................... 20.36 mb 170.88 ms
+  200    GET /manifest.json .................................. 20.18 mb 2.23 ms
+  200    GET /GrantValueAnalysis ........................... 20.63 mb 633.88 ms
+  200    GET /manifest.json .................................. 20.43 mb 2.39 ms
+  200    GET /MgtUsers ..................................... 20.66 mb 119.34 ms
+  200    GET /manifest.json .................................. 20.44 mb 3.28 ms
+  200    GET / ............................................... 20.45 mb 3.31 ms
+  200    GET /manifest.json .................................. 20.44 mb 4.05 ms
+  200    GET / .............................................. 15.37 mb 46.49 ms
+  200    GET / .............................................. 15.37 mb 16.11 ms
+  200    GET /manifest.json ................................. 15.47 mb 15.68 ms
+  200    GET / .............................................. 15.58 mb 28.84 ms
+  200    GET /offline ........................................ 15.58 mb 9.23 ms
+  200    GET /manifest.json .................................. 15.57 mb 4.74 ms
+  200    GET /login ......................................... 20.54 mb 21.47 ms
+  404    GET /assets/bg.svg .................................. 20.54 mb 4.36 ms
+  200    GET /login .......................................... 20.54 mb 5.05 ms
+  200    GET /manifest.json .................................. 15.57 mb 2.70 ms
+  404    GET /assets/bg.svg .................................. 15.88 mb 9.36 ms
+  302    POST /login ....................................... 18.49 mb 181.64 ms
+  200    GET /dashboard .................................... 20.59 mb 132.46 ms
+  302    GET /dashboard .................................... 20.54 mb 148.98 ms
+  302    GET /dashboard ..................................... 15.96 mb 10.81 ms
+  200    GET /login .......................................... 20.54 mb 4.92 ms
+  200    GET /login .......................................... 20.54 mb 7.44 ms
+  200    GET /manifest.json .................................. 20.53 mb 3.03 ms
+  404    GET /assets/bg.svg ................................. 20.54 mb 11.28 ms
+  404    GET /assets/bg.svg .................................. 20.05 mb 3.46 ms
+  200    GET /MgtDeductions ................................ 20.38 mb 184.99 ms
+  200    GET /manifest.json .................................. 20.19 mb 7.37 ms
+  200    GET /manifest.json .................................. 20.53 mb 3.17 ms
+  200    GET /MgtDeductions ................................ 20.38 mb 107.56 ms
+  200    GET /MgtBenefitsSalary ............................ 20.40 mb 129.43 ms
+  200    GET /SelectProjAct ................................ 20.55 mb 158.19 ms
+  200    GET /manifest.json ................................. 20.53 mb 11.18 ms
+  200    GET /MgtBenefitsSalary ............................ 19.29 mb 168.94 ms
+  200    GET /manifest.json .................................. 20.53 mb 2.26 ms
+  200    GET /manifest.json .................................. 19.11 mb 7.44 ms
+  200    GET /SoonExpiring .................................. 19.33 mb 50.81 ms
+  302    GET /SoonExpiring ................................... 20.55 mb 9.41 ms
+  200    GET /login .......................................... 20.55 mb 7.18 ms
+  200    GET /manifest.json .................................. 19.15 mb 7.64 ms
+  404    GET /assets/bg.svg ................................. 15.48 mb 23.43 ms
+  302    POST /logout ...................................... 19.27 mb 241.29 ms
+  200    GET / .............................................. 19.28 mb 14.92 ms
+  200    GET /manifest.json .................................. 20.54 mb 4.78 ms
+  200    GET /login ......................................... 20.43 mb 22.20 ms
+  404    GET /assets/bg.svg .................................. 20.43 mb 7.01 ms
+  200    GET /manifest.json .................................. 19.27 mb 2.09 ms
+  200    GET / .............................................. 20.55 mb 11.86 ms
+  200    GET / ............................................... 20.55 mb 2.61 ms
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  200    GET /GrantDatabase ................................ 19.16 mb 942.26 ms
+  200    GET /manifest.json ................................. 15.38 mb 42.80 ms
+  200    GET /MgtTaxes ..................................... 18.86 mb 196.21 ms
+  200    GET /manifest.json .................................. 18.99 mb 5.09 ms
+  200    GET /LeaveSettings ................................ 19.39 mb 155.33 ms
+  200    GET /MgtDonors .................................... 19.50 mb 123.28 ms
+  200    GET /manifest.json ................................. 15.47 mb 19.79 ms
+  200    GET /manifest.json ................................. 19.19 mb 15.78 ms
+  200    GET /ContractorConTrack ............................ 19.43 mb 29.87 ms
+  200    GET /manifest.json .................................. 19.19 mb 6.70 ms
+  200    GET /SelectConDocs ................................. 19.52 mb 23.89 ms
+  200    GET /manifest.json .................................. 19.19 mb 3.48 ms
+  200    GET /MgtRoles ...................................... 19.72 mb 33.48 ms
+  200    GET /manifest.json .................................. 15.47 mb 6.96 ms
+  200    GET /ConExpiredCons ................................ 19.70 mb 79.61 ms
+  200    GET /manifest.json .................................. 15.47 mb 3.40 ms
+  200    GET /MgtBenefitsSalary ............................ 19.56 mb 121.58 ms
+  200    GET /manifest.json .................................. 19.19 mb 3.12 ms
+  200    GET / .............................................. 19.40 mb 70.48 ms
+  200    GET /manifest.json .................................. 19.19 mb 3.64 ms
+  302    GET /login ......................................... 17.38 mb 36.23 ms
+  200    GET /dashboard .................................... 19.66 mb 130.95 ms
+  200    GET /manifest.json .................................. 19.39 mb 6.25 ms
+  200    GET /ExpiredCons .................................. 19.44 mb 140.42 ms
+  200    GET /manifest.json .................................. 19.11 mb 4.84 ms
+  200    GET /ConExpiredCons ................................ 19.48 mb 53.28 ms
+  200    GET /manifest.json .................................. 19.19 mb 3.48 ms
+  200    GET /SelectConDocs ................................. 19.77 mb 17.33 ms
+  200    GET /manifest.json .................................. 19.06 mb 3.33 ms
+  302    POST /ConDocsSelected .............................. 19.44 mb 12.29 ms
+  200    GET /ConReturnDocs/1 .............................. 19.87 mb 193.74 ms
+  200    GET /offline ........................................ 19.48 mb 6.25 ms
+  200    GET /manifest.json .................................. 19.11 mb 3.80 ms
+  200    GET /SelectConDocs ................................. 19.45 mb 13.59 ms
+  200    GET /manifest.json .................................. 19.11 mb 7.83 ms
+  302    POST /ConDocsSelected .............................. 19.12 mb 28.26 ms
+  200    GET /ConReturnDocs/1 ............................... 19.55 mb 91.54 ms
+  200    GET /manifest.json .................................. 19.11 mb 7.07 ms
+  200    GET /SelectStaffPay ................................ 19.50 mb 71.38 ms
+  200    GET /manifest.json .................................. 19.14 mb 3.20 ms
+  302    POST /StaffSelectedPay ............................. 19.36 mb 15.92 ms
+  200    GET /ReturnPaySettings/6 .......................... 19.65 mb 118.42 ms
+  200    GET /offline ........................................ 19.46 mb 4.42 ms
+  200    GET /manifest.json .................................. 19.14 mb 4.00 ms
+  302    POST /AssignTax ................................... 19.77 mb 254.00 ms
+  200    GET /ReturnPaySettings/6 ........................... 20.09 mb 27.93 ms
+  200    GET /manifest.json .................................. 19.11 mb 2.51 ms
+  200    GET /MgtEmp ....................................... 20.43 mb 147.80 ms
+  200    GET /manifest.json .................................. 19.45 mb 3.91 ms
+  200    GET /ExpiredCons ................................... 19.55 mb 97.60 ms
+  200    GET /manifest.json .................................. 19.45 mb 6.84 ms
+  200    GET /MgtDeductions ................................ 19.40 mb 123.94 ms
+  200    GET /manifest.json .................................. 19.45 mb 3.58 ms
+  200    GET /MgtRoles ...................................... 19.68 mb 28.58 ms
+  200    GET /manifest.json .................................. 19.22 mb 4.32 ms
+  200    GET /SelectConDocs ................................. 20.27 mb 13.09 ms
+  200    GET /manifest.json .................................. 19.45 mb 5.46 ms
+  200    GET /SelectConDocs ................................. 20.27 mb 10.93 ms
+  200    GET /manifest.json .................................. 19.45 mb 3.65 ms
+  200    GET /SelectConDocs ................................. 19.94 mb 18.53 ms
+  200    GET /manifest.json .................................. 19.22 mb 6.02 ms
+  302    POST /ConDocsSelected ............................... 19.56 mb 6.78 ms
+  200    GET /ConReturnDocs/1 ............................... 20.00 mb 91.15 ms
+  200    GET /manifest.json .................................. 19.89 mb 5.38 ms
+  200    GET /MgtRoles ...................................... 20.36 mb 59.97 ms
+  200    GET /ContractorConTrack ............................ 19.67 mb 35.19 ms
+  200    GET /manifest.json .................................. 19.47 mb 3.35 ms
+  200    GET /manifest.json .................................. 19.47 mb 9.50 ms
+  200    GET /MgtEmp ....................................... 20.28 mb 158.11 ms
+  200    GET /manifest.json .................................. 19.89 mb 4.70 ms
+  200    GET /GrantValidityAnalysis ......................... 20.08 mb 29.51 ms
+  200    GET /manifest.json .................................. 19.89 mb 4.33 ms
+  200    GET /MgtDepts ..................................... 20.70 mb 169.52 ms
+  200    GET /manifest.json .................................. 19.28 mb 6.92 ms
+  200    GET /manifest.json .................................. 19.28 mb 2.75 ms
+  200    GET /MgtDepts ..................................... 20.72 mb 105.50 ms
+  200    GET /MgtDepts ..................................... 20.11 mb 104.93 ms
+  200    GET /manifest.json .................................. 19.29 mb 4.81 ms
+  200    GET /manifest.json .................................. 19.89 mb 2.93 ms
+  200    GET /MgtDeductions ................................ 20.08 mb 131.23 ms
+  200    GET /SelectConDocs ................................. 19.68 mb 23.54 ms
+  200    GET /manifest.json .................................. 19.89 mb 8.06 ms
+  200    GET /manifest.json .................................. 19.29 mb 3.00 ms
+  200    GET /offline ........................................ 19.98 mb 6.12 ms
+  200    GET / ............................................... 19.48 mb 9.26 ms
+  200    GET /manifest.json .................................. 19.97 mb 6.99 ms
+  302    GET /login .......................................... 19.53 mb 5.31 ms
+  200    GET /dashboard .................................... 20.13 mb 113.12 ms
+  200    GET /manifest.json .................................. 19.89 mb 2.67 ms
+  200    GET /dashboard .................................... 19.84 mb 118.13 ms
+  200    GET /manifest.json .................................. 19.29 mb 5.14 ms
+  200    GET /manifest.json .................................. 19.89 mb 2.93 ms
+  200    GET /dashboard .................................... 20.13 mb 138.27 ms
+  200    GET /manifest.json .................................. 19.29 mb 2.72 ms
+  200    GET /dashboard .................................... 19.84 mb 164.32 ms
+  404    GET /assets/style.bundle.css.map .................. 19.71 mb 122.60 ms
+  200    GET /manifest.json .................................. 19.97 mb 3.46 ms
+  200    GET /dashboard .................................... 20.44 mb 169.14 ms
+  404    GET /assets/style.bundle.css.map .................... 20.08 mb 8.57 ms
+  200    GET /manifest.json .................................. 19.97 mb 3.88 ms
+  200    GET /dashboard .................................... 20.62 mb 168.17 ms
+  404    GET /assets/style.bundle.css.map .................... 20.08 mb 5.41 ms
+  200    GET /manifest.json .................................. 19.97 mb 2.11 ms
+  200    GET /GrantBVASelectYear ............................ 20.36 mb 87.28 ms
+  200    GET /manifest.json .................................. 19.71 mb 5.62 ms
+  302    POST /BVASelected .................................. 20.09 mb 12.19 ms
+  200    GET /ReturnYearlyBVA/11/2021 ....................... 20.32 mb 52.72 ms
+  200    GET /offline ....................................... 19.32 mb 10.98 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.01 ms
+  200    GET /SelectConDocs ................................. 20.47 mb 11.60 ms
+  200    GET /manifest.json .................................. 19.71 mb 6.45 ms
+  302    POST /ConDocsSelected .............................. 20.09 mb 15.34 ms
+  200    GET /ConReturnDocs/1 ............................... 20.49 mb 93.88 ms
+  200    GET /offline ........................................ 20.09 mb 4.18 ms
+  200    GET /manifest.json .................................. 19.97 mb 4.69 ms
+  200    GET /manifest.json .................................. 19.97 mb 2.93 ms
+  200    GET /offline ........................................ 19.98 mb 6.43 ms
+  404    GET /assets/style.bundle.css.map .................... 20.09 mb 3.48 ms
+  200    GET /ConReturnDocs/1 .............................. 20.49 mb 105.11 ms
+  404    GET /assets/style.bundle.css.map .................... 20.09 mb 3.54 ms
+  200    GET /manifest.json .................................. 19.31 mb 3.61 ms
+  200    GET /offline ........................................ 19.32 mb 5.00 ms
+  200    GET /ConReturnDocs/1 .............................. 20.11 mb 112.55 ms
+  404    GET /assets/style.bundle.css.map .................... 19.71 mb 3.30 ms
+  200    GET /manifest.json .................................. 19.71 mb 2.52 ms
+  200    GET /ConReturnDocs/1 .............................. 19.74 mb 110.75 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 5.74 ms
+  200    GET /manifest.json .................................. 19.71 mb 4.07 ms
+  200    GET /ConReturnDocs/1 .............................. 20.37 mb 120.46 ms
+  404    GET /assets/style.bundle.css.map .................... 20.14 mb 8.76 ms
+  200    GET /manifest.json .................................. 19.54 mb 9.71 ms
+  200    GET /ConReturnDocs/1 .............................. 20.54 mb 109.61 ms
+  404    GET /assets/style.bundle.css.map .................... 20.14 mb 4.19 ms
+  200    GET /manifest.json .................................. 20.09 mb 3.93 ms
+  200    GET /ConReturnDocs/1 .............................. 20.11 mb 110.12 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 3.18 ms
+  200    GET /manifest.json .................................. 20.09 mb 4.85 ms
+  200    GET /GrantDatabase ................................ 20.03 mb 115.15 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 3.43 ms
+  200    GET /manifest.json .................................. 19.54 mb 2.69 ms
+  200    GET /offline ........................................ 19.72 mb 5.02 ms
+  200    GET /GrantDatabase ................................ 20.03 mb 104.61 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 2.09 ms
+  200    GET /manifest.json .................................. 19.54 mb 4.44 ms
+  200    GET /GrantDatabase ................................ 20.44 mb 135.64 ms
+  404    GET /assets/style.bundle.css.map .................... 20.11 mb 7.01 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.87 ms
+  200    GET /GrantDatabase ................................ 20.43 mb 111.56 ms
+  404    GET /assets/style.bundle.css.map .................... 20.12 mb 4.03 ms
+  200    GET /manifest.json .................................. 19.54 mb 7.95 ms
+  200    GET /MgtRoles ...................................... 20.00 mb 43.11 ms
+  200    GET / .............................................. 19.72 mb 10.03 ms
+  200    GET / ............................................... 19.72 mb 5.44 ms
+  200    GET /manifest.json .................................. 20.14 mb 3.63 ms
+  200    GET / .............................................. 19.73 mb 12.47 ms
+  200    GET /manifest.json .................................. 20.14 mb 4.05 ms
+  200    GET / .............................................. 19.73 mb 12.57 ms
+  200    GET /manifest.json .................................. 20.14 mb 4.54 ms
+  302    GET /login ......................................... 19.71 mb 10.86 ms
+  200    GET /dashboard ..................................... 20.26 mb 96.51 ms
+  200    GET /manifest.json .................................. 20.14 mb 4.22 ms
+  200    GET /dashboard .................................... 20.66 mb 124.00 ms
+  200    GET /manifest.json .................................. 20.14 mb 3.02 ms
+  200    GET /dashboard .................................... 20.09 mb 103.58 ms
+  200    GET /manifest.json ................................. 19.71 mb 20.53 ms
+  200    GET /dashboard .................................... 20.26 mb 109.17 ms
+  200    GET /manifest.json .................................. 19.71 mb 2.94 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 3.12 ms
+  200    GET /dashboard .................................... 20.09 mb 124.76 ms
+  404    GET /assets/style.bundle.css.map .................... 20.12 mb 3.82 ms
+  200    GET /manifest.json .................................. 19.71 mb 3.39 ms
+  200    GET /dashboard .................................... 20.66 mb 124.90 ms
+  404    GET /assets/style.bundle.css.map .................... 20.12 mb 4.52 ms
+  200    GET /manifest.json .................................. 20.14 mb 6.78 ms
+  200    GET /dashboard .................................... 20.69 mb 127.69 ms
+  404    GET /assets/style.bundle.css.map .................... 20.15 mb 6.75 ms
+  200    GET /manifest.json .................................. 19.54 mb 6.20 ms
+  200    GET /dashboard .................................... 20.69 mb 114.00 ms
+  404    GET /assets/style.bundle.css.map .................... 20.15 mb 5.02 ms
+  200    GET /manifest.json .................................. 19.54 mb 3.94 ms
+  200    GET /dashboard .................................... 20.69 mb 130.51 ms
+  404    GET /assets/style.bundle.css.map .................... 20.15 mb 5.84 ms
+  200    GET /manifest.json .................................. 19.71 mb 6.15 ms
+  200    GET /dashboard .................................... 20.66 mb 118.34 ms
+  404    GET /assets/style.bundle.css.map .................... 20.12 mb 3.73 ms
+  200    GET /manifest.json .................................. 20.13 mb 7.32 ms
+  200    GET /dashboard .................................... 20.09 mb 138.21 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 2.16 ms
+  200    GET /manifest.json .................................. 20.15 mb 7.40 ms
+  200    GET /dashboard .................................... 20.26 mb 123.26 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 5.11 ms
+  200    GET /manifest.json .................................. 20.15 mb 7.32 ms
+  200    GET /dashboard .................................... 20.27 mb 124.63 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 5.37 ms
+  200    GET /manifest.json .................................. 20.15 mb 6.83 ms
+  200    GET /dashboard .................................... 20.09 mb 153.82 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 3.70 ms
+  200    GET /manifest.json .................................. 20.15 mb 2.62 ms
+  200    GET /dashboard .................................... 20.10 mb 135.49 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 3.72 ms
+  200    GET /manifest.json .................................. 20.15 mb 6.14 ms
+  200    GET /dashboard .................................... 20.10 mb 130.07 ms
+  404    GET /assets/style.bundle.css.map .................... 19.55 mb 5.05 ms
+  200    GET /manifest.json .................................. 20.15 mb 6.05 ms
+  200    GET /dashboard .................................... 20.68 mb 156.54 ms
+  404    GET /assets/style.bundle.css.map .................... 20.14 mb 2.32 ms
+  200    GET /manifest.json .................................. 19.55 mb 8.66 ms
+  200    GET /dashboard .................................... 20.27 mb 119.13 ms
+  404    GET /assets/style.bundle.css.map .................... 19.72 mb 9.46 ms
+  200    GET /manifest.json .................................. 20.13 mb 6.37 ms
+  200    GET /manifest.json .................................. 20.13 mb 2.34 ms
+  200    GET /dashboard .................................... 20.11 mb 124.33 ms
+  404    GET /assets/style.bundle.css.map .................... 19.57 mb 2.26 ms
+  200    GET /dashboard .................................... 20.11 mb 153.92 ms
+  404    GET /assets/style.bundle.css.map .................... 20.15 mb 6.42 ms
+  200    GET /manifest.json .................................. 19.72 mb 8.15 ms
+  200    GET /dashboard .................................... 20.68 mb 115.60 ms
+  404    GET /assets/style.bundle.css.map .................... 19.57 mb 4.79 ms
+  200    GET /manifest.json .................................. 19.57 mb 7.38 ms
+  200    GET /dashboard .................................... 20.27 mb 121.72 ms
+  404    GET /assets/style.bundle.css.map .................... 19.73 mb 5.24 ms
+  200    GET /manifest.json .................................. 20.13 mb 3.95 ms
+  200    GET /dashboard .................................... 20.27 mb 126.08 ms
+  404    GET /assets/style.bundle.css.map .................... 19.73 mb 3.42 ms
+  200    GET /manifest.json .................................. 20.13 mb 3.42 ms
+  200    GET /dashboard .................................... 20.71 mb 153.36 ms
+  404    GET /assets/style.bundle.css.map .................... 20.17 mb 3.24 ms
+  200    GET /manifest.json .................................. 20.13 mb 4.86 ms
+  200    GET /dashboard .................................... 20.71 mb 137.38 ms
+  404    GET /assets/style.bundle.css.map .................... 20.17 mb 5.05 ms
+  200    GET /manifest.json .................................. 19.57 mb 3.57 ms
+  200    GET /dashboard .................................... 20.71 mb 138.04 ms
+  404    GET /assets/style.bundle.css.map .................... 20.17 mb 4.01 ms
+  200    GET /manifest.json .................................. 19.57 mb 4.12 ms
+  200    GET /dashboard .................................... 20.27 mb 136.51 ms
+  404    GET /assets/style.bundle.css.map .................... 19.73 mb 6.07 ms
+  200    GET /manifest.json .................................. 19.57 mb 3.30 ms
+  200    GET /dashboard .................................... 20.68 mb 100.25 ms
+  200    GET /manifest.json .................................. 20.17 mb 4.65 ms
+  200    GET /GrantValueAnalysis ............................ 20.56 mb 59.00 ms
+  200    GET /manifest.json .................................. 20.36 mb 5.61 ms
+  200    GET /LeaveSettings ................................ 21.12 mb 219.71 ms
+  200    GET /offline ........................................ 19.57 mb 3.85 ms
+  200    GET /manifest.json .................................. 20.52 mb 2.64 ms
+  200    GET /ConSoonExpiring ............................... 20.32 mb 18.54 ms
+  200    GET /manifest.json .................................. 20.52 mb 7.08 ms
+  200    GET /GrantValueAnalysis ............................ 20.34 mb 59.95 ms
+  200    GET /manifest.json .................................. 20.52 mb 4.41 ms
+  200    GET /offline ....................................... 20.15 mb 10.81 ms
+  200    GET /MgtUsers ..................................... 20.37 mb 100.84 ms
+  200    GET /manifest.json .................................. 20.52 mb 6.22 ms
+  200    GET /ConTrack ..................................... 19.88 mb 145.89 ms
+  200    GET /manifest.json .................................. 20.52 mb 6.40 ms
+  200    GET /GrantValidityAnalysis ......................... 20.12 mb 44.67 ms
+  200    GET /manifest.json .................................. 20.52 mb 6.82 ms
+  200    GET /SelectConDocs ................................. 20.30 mb 52.16 ms
+  200    GET /manifest.json .................................. 20.52 mb 3.49 ms
+  200    GET /SelectConDocs ................................. 20.90 mb 26.74 ms
+  200    GET /manifest.json .................................. 19.92 mb 7.81 ms
+  200    GET /SelectConDocs ................................. 20.90 mb 39.84 ms
+  200    GET /manifest.json .................................. 19.92 mb 4.36 ms
+  200    GET /MgtTaxes ..................................... 20.71 mb 133.64 ms
+  200    GET /manifest.json .................................. 19.92 mb 4.12 ms
+  200    GET /MgtRoles ..................................... 20.61 mb 140.13 ms
+  200    GET /GrantBVASelectYear ............................ 20.43 mb 25.27 ms
+  200    GET /manifest.json .................................. 19.92 mb 3.07 ms
+  200    GET /MgtCons ...................................... 21.12 mb 189.29 ms
+  200    GET /manifest.json .................................. 19.92 mb 3.21 ms
+  302    GET /dashboard ..................................... 19.74 mb 30.49 ms
+  200    GET /login ........................................ 19.80 mb 385.13 ms
+  404    GET /assets/bg.svg .................................. 20.17 mb 2.18 ms
+  404    GET /assets/bg.svg .................................. 19.80 mb 2.89 ms
+  200    GET /offline ........................................ 19.80 mb 4.80 ms
+  302    POST /login ....................................... 20.69 mb 471.13 ms
+  200    GET /dashboard ..................................... 21.24 mb 99.68 ms
+  200    GET /dashboard .................................... 21.24 mb 108.27 ms
+  200    GET /MgtDepts ..................................... 20.98 mb 113.90 ms
+  200    GET /LeaveSettings ................................ 20.76 mb 103.11 ms
+  200    GET /MgtDepts ..................................... 20.98 mb 113.74 ms
+  200    GET /SelectConDocs ................................. 20.55 mb 16.30 ms
+  200    GET /GrantBVASelectYear ............................ 20.44 mb 19.77 ms
+  200    GET /MgtTaxes ...................................... 20.35 mb 89.41 ms
+  200    GET /MgtTaxes ...................................... 20.90 mb 93.46 ms
+  200    GET /MgtTaxes ..................................... 18.95 mb 738.85 ms
+  200    GET /MgtTaxes ...................................... 20.90 mb 83.11 ms
+  200    GET /MgtTaxes ..................................... 20.70 mb 130.03 ms
+  200    GET /GrantDatabase ................................ 20.96 mb 113.55 ms
+  200    GET /MgtRoles ...................................... 21.10 mb 42.84 ms
+  200    GET /MgtRoles ...................................... 21.10 mb 15.63 ms
+  200    GET /MgtRoles ...................................... 20.62 mb 24.89 ms
+  200    GET /MgtRoles ...................................... 19.39 mb 83.54 ms
+  200    GET /MgtDepts ..................................... 21.53 mb 118.27 ms
+  200    GET /MgtDepts ..................................... 21.53 mb 109.72 ms
+  200    GET /MgtCons ...................................... 20.03 mb 762.32 ms
+  404    GET /assets/style.bundle.css.map ................... 19.31 mb 99.39 ms
+  200    GET /manifest.json ................................ 15.47 mb 475.40 ms
+  200    GET /MgtCons ...................................... 20.27 mb 104.49 ms
+  404    GET /assets/style.bundle.css.map .................... 19.31 mb 3.48 ms
+  200    GET /manifest.json .................................. 15.48 mb 4.98 ms
+  200    GET /MgtCons ...................................... 20.27 mb 125.46 ms
+  404    GET /assets/style.bundle.css.map .................... 19.31 mb 4.62 ms
+  200    GET /manifest.json .................................. 20.17 mb 5.50 ms
+  200    GET /offline ....................................... 19.33 mb 30.51 ms
+  200    GET /MgtCons ...................................... 20.28 mb 105.50 ms
+  404    GET /assets/style.bundle.css.map .................... 19.33 mb 1.94 ms
+  200    GET /manifest.json .................................. 19.38 mb 5.77 ms
+  200    GET /MgtCons ...................................... 19.90 mb 755.67 ms
+  404    GET /assets/style.bundle.css.map .................... 19.19 mb 7.41 ms
+  200    GET /manifest.json .................................. 20.17 mb 4.55 ms
+  200    GET /MgtCons ...................................... 21.69 mb 103.39 ms
+  404    GET /assets/style.bundle.css.map .................... 20.74 mb 1.93 ms
+  200    GET /manifest.json .................................. 20.17 mb 3.11 ms
+  200    GET /MgtCons ...................................... 20.34 mb 120.98 ms
+  404    GET /assets/style.bundle.css.map .................... 19.38 mb 2.86 ms
+  200    GET /MgtCons ....................................... 20.34 mb 98.60 ms
+  404    GET /assets/style.bundle.css.map .................... 19.39 mb 2.02 ms
+  200    GET /manifest.json .................................. 20.17 mb 3.44 ms
+  200    GET /MgtCons ...................................... 20.34 mb 118.73 ms
+  200    GET /manifest.json .................................. 20.73 mb 6.17 ms
+  200    GET /manifest.json .................................. 20.17 mb 2.71 ms
+  200    GET /MgtCons ...................................... 20.14 mb 120.24 ms
+  404    GET /assets/style.bundle.css.map .................... 19.19 mb 2.32 ms
+  200    GET /MgtCons ...................................... 20.14 mb 148.57 ms
+  404    GET /assets/style.bundle.css.map .................... 19.19 mb 3.29 ms
+  200    GET /manifest.json .................................. 20.73 mb 3.25 ms
+  200    GET /MgtCons ...................................... 21.13 mb 124.52 ms
+  404    GET /assets/style.bundle.css.map .................... 20.17 mb 3.47 ms
+  200    GET /manifest.json .................................. 20.17 mb 7.03 ms
+  200    GET /MgtCons ...................................... 20.34 mb 107.05 ms
+  404    GET /assets/style.bundle.css.map .................... 19.39 mb 7.19 ms
+  200    GET /manifest.json .................................. 20.73 mb 2.83 ms
+  200    GET /MgtCons ...................................... 20.14 mb 122.15 ms
+  404    GET /assets/style.bundle.css.map .................... 19.19 mb 6.65 ms
+  200    GET /manifest.json .................................. 20.73 mb 7.18 ms
+  200    GET /MgtCons ...................................... 20.34 mb 144.97 ms
+  404    GET /assets/style.bundle.css.map .................... 19.39 mb 3.39 ms
+  200    GET /manifest.json .................................. 19.19 mb 7.50 ms
+  200    GET /MgtCons ...................................... 21.13 mb 118.58 ms
+  404    GET /assets/style.bundle.css.map .................... 20.18 mb 1.79 ms
+  200    GET /manifest.json .................................. 20.73 mb 2.80 ms
+  200    GET /MgtCons ...................................... 20.15 mb 107.40 ms
+  200    GET /manifest.json .................................. 20.73 mb 4.70 ms
+  200    GET /MgtCons ...................................... 20.34 mb 101.42 ms
+  200    GET /manifest.json .................................. 19.38 mb 3.98 ms
+  200    GET /offline ....................................... 20.18 mb 23.67 ms
+  200    GET /MgtTaxes ..................................... 19.47 mb 149.39 ms
+  200    GET /manifest.json .................................. 19.38 mb 6.97 ms
+  200    GET /ContractorConTrack ............................ 19.78 mb 51.56 ms
+  200    GET /manifest.json .................................. 19.39 mb 3.37 ms
+  200    GET /MgtEmp ....................................... 19.98 mb 260.97 ms
+  200    GET /manifest.json .................................. 19.43 mb 7.20 ms
+  200    GET /GrantBVASelectYear ............................ 21.01 mb 36.11 ms
+  200    GET /manifest.json .................................. 20.17 mb 4.37 ms
+  200    GET /offline ........................................ 20.74 mb 9.57 ms
+  200    GET /MgtTaxes ...................................... 20.35 mb 87.63 ms
+  200    GET /manifest.json .................................. 19.43 mb 4.22 ms
+  200    GET /offline ........................................ 20.74 mb 4.21 ms
+  200    GET /manifest.json .................................. 19.28 mb 1.99 ms
+  200    GET /MgtTaxes ..................................... 20.44 mb 421.96 ms
+  200    GET /MgtTaxes ...................................... 20.44 mb 97.90 ms
+  404    GET /assets/fonts/fa-solid-900.woff2 ............... 20.28 mb 17.37 ms
+  404    GET /assets/fonts/fa-solid-900.woff ................. 19.44 mb 4.00 ms
+  404    GET /assets/fonts/fa-solid-900.ttf .................. 19.44 mb 5.40 ms
+  200    GET /offline ....................................... 15.41 mb 47.96 ms
+  200    GET /MgtTaxes ..................................... 20.91 mb 107.26 ms
+  404    GET /assets/fonts/fa-solid-900.woff2 ................ 20.75 mb 3.78 ms
+  404    GET /assets/fonts/fa-solid-900.woff ................. 19.29 mb 6.04 ms
+  404    GET /assets/fonts/fa-solid-900.ttf .................. 19.30 mb 6.83 ms
+  200    GET /MgtTaxes ..................................... 18.95 mb 198.99 ms
+  404    GET /assets/fonts/fa-solid-900.woff2 ............... 19.10 mb 11.06 ms
+  404    GET /assets/fonts/fa-solid-900.woff ................. 19.11 mb 1.97 ms
+  404    GET /assets/fonts/fa-solid-900.ttf .................. 19.11 mb 3.20 ms
+
+   INFO  Application change detected. Restarting workers…
+
+   ParseError 
+
+  syntax error, unexpected token "protected", expecting "]"
+
+  at /var/www/html/africhild.mis/app/Http/Kernel.php:43
+     39▕      * The application's route middleware groups.
+     40▕      *
+     41▕      * @var array
+     42▕      */
+  ➜  43▕     protected $middlewareGroups = [
+     44▕         'web' => [
+     45▕             \App\Http\Middleware\EncryptCookies::class,
+     46▕             \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
+     47▕             \Illuminate\Session\Middleware\StartSession::class,
+
+      [2m+1 vendor frames [22m
+  2   [internal]:0
+      Composer\Autoload\ClassLoader::loadClass()
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+   INFO  Application change detected. Restarting workers…
+
+   INFO  Application change detected. Restarting workers…
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+
+
+   INFO  Server running…
+
+  Local: http://127.0.0.1:8089 
+
+  Press Ctrl+C to stop the server
+
+  302    GET /LeaveAssignment/6 ........................... 17.06 mb 1531.23 ms
